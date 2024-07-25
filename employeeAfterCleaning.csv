@@ -1,0 +1,1005 @@
+ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Commute Distance (Miles),Region,Age,Purchased Bike
+12496,married,female,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,42.0,NO
+24107,married,male,30000.0,3,Partial College,Clerical,YES,1,1,Europe,43.0,NO
+14177,married,male,80000.0,5,Partial College,Professional,NO,2,5,Europe,60.0,NO
+24381,single,male,70000.0,0,Bachelors,Professional,YES,1,10,Pacific,41.0,YES
+25597,single,male,30000.0,0,Bachelors,Clerical,NO,0,1,Europe,36.0,YES
+13507,married,female,10000.0,2,Partial College,Manual,YES,0,2,Europe,50.0,NO
+19364,married,male,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,43.0,YES
+22155,married,male,20000.0,2,Partial High School,Clerical,YES,2,10,Pacific,58.0,NO
+19280,married,male,120000.0,2,Partial College,Manual,YES,1,1,Europe,40.0,YES
+22173,married,female,30000.0,3,High School,Skilled Manual,NO,2,2,Pacific,54.0,YES
+12697,single,female,90000.0,0,Bachelors,Professional,NO,4,10,Pacific,36.0,NO
+25323,married,male,40000.0,2,Partial College,Clerical,YES,1,2,Europe,35.0,YES
+23542,single,male,60000.0,1,Partial College,Skilled Manual,NO,1,1,Pacific,45.0,YES
+20870,single,female,10000.0,2,High School,Manual,YES,1,1,Europe,38.0,YES
+23316,single,male,30000.0,1,Partial College,Clerical,NO,2,2,Pacific,59.0,YES
+27183,single,male,40000.0,2,Partial College,Clerical,YES,1,2,North America,35.0,YES
+25940,single,male,20000.0,2,Partial High School,Clerical,YES,2,10,Pacific,55.0,YES
+25598,married,female,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,36.0,YES
+21564,single,female,80000.0,0,Bachelors,Professional,YES,4,10,Pacific,35.0,NO
+19193,single,male,40000.0,2,Partial College,Clerical,YES,0,2,Europe,35.0,YES
+26412,married,female,80000.0,5,High School,Management,NO,3,10,Europe,56.0,NO
+27184,single,male,40000.0,2,Partial College,Clerical,NO,1,1,Europe,34.0,NO
+12590,single,male,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,63.0,NO
+17841,single,male,30000.0,0,Partial College,Clerical,NO,1,1,Europe,29.0,YES
+18283,single,female,100000.0,0,Bachelors,Professional,NO,1,10,Pacific,40.0,NO
+18299,married,male,70000.0,5,Partial College,Skilled Manual,YES,2,10,Pacific,44.0,NO
+16466,single,female,20000.0,0,Partial High School,Manual,NO,2,1,Europe,32.0,YES
+19273,married,female,20000.0,2,Partial College,Manual,YES,0,1,Europe,63.0,NO
+22400,married,male,10000.0,0,Partial College,Manual,NO,1,1,North America,26.0,YES
+20942,single,female,20000.0,1,High School,Manual,NO,1,10,Europe,31.0,NO
+18484,single,male,80000.0,2,High School,Skilled Manual,NO,2,2,Pacific,50.0,YES
+12291,single,male,90000.0,5,Partial College,Professional,NO,2,5,Europe,62.0,YES
+28380,single,female,10000.0,5,Partial High School,Manual,NO,2,1,Europe,41.0,NO
+17891,married,female,10000.0,2,Partial College,Manual,YES,1,1,Europe,50.0,YES
+27832,single,female,30000.0,0,Partial College,Clerical,NO,1,5,Europe,30.0,NO
+26863,single,male,20000.0,0,High School,Manual,NO,1,5,Europe,28.0,NO
+16259,single,female,10000.0,4,Partial High School,Manual,YES,2,1,Europe,40.0,YES
+27803,single,female,30000.0,2,Partial College,Clerical,NO,0,1,Europe,43.0,NO
+14347,single,female,40000.0,2,Bachelors,Management,YES,2,10,Pacific,65.0,YES
+17703,married,female,10000.0,1,Bachelors,Manual,YES,0,1,Europe,40.0,NO
+29380,married,female,20000.0,3,High School,Manual,YES,0,1,Europe,41.0,YES
+23986,married,female,20000.0,1,Bachelors,Clerical,YES,0,1,Europe,66.0,YES
+24466,married,female,60000.0,1,Partial College,Skilled Manual,YES,1,10,Pacific,46.0,YES
+29097,single,female,40000.0,2,Partial College,Skilled Manual,YES,2,10,Pacific,52.0,YES
+19487,married,male,30000.0,2,Partial College,Clerical,NO,2,1,Europe,42.0,NO
+14939,single,male,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,39.0,YES
+13826,single,female,30000.0,0,Partial College,Clerical,NO,1,1,Europe,28.0,NO
+20619,single,male,80000.0,0,Bachelors,Professional,NO,4,10,Pacific,35.0,NO
+12558,married,female,20000.0,1,Bachelors,Clerical,YES,0,1,Europe,65.0,NO
+24871,single,female,90000.0,4,High School,Management,NO,3,10,Europe,56.0,NO
+17319,single,female,70000.0,0,Bachelors,Professional,NO,1,10,Pacific,42.0,NO
+28906,married,male,80000.0,4,High School,Professional,YES,2,10,Europe,54.0,NO
+12808,married,male,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,38.0,YES
+20567,married,male,130000.0,4,Partial College,Professional,NO,4,10,Europe,61.0,YES
+25502,married,female,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,43.0,YES
+15580,married,male,60000.0,2,Bachelors,Professional,YES,1,5,Pacific,38.0,YES
+24185,single,female,10000.0,1,High School,Manual,NO,1,2,Europe,45.0,NO
+19291,single,female,10000.0,2,High School,Manual,YES,0,1,Europe,35.0,NO
+16713,married,male,40000.0,2,Bachelors,Management,YES,1,1,Pacific,52.0,YES
+16185,single,male,60000.0,4,Bachelors,Professional,YES,3,10,Pacific,41.0,NO
+14927,married,female,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,37.0,YES
+29337,single,male,30000.0,2,Partial College,Clerical,YES,2,10,Pacific,68.0,NO
+29355,married,female,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,37.0,YES
+25303,single,male,30000.0,0,High School,Manual,YES,1,5,Europe,33.0,YES
+14813,single,female,20000.0,4,High School,Manual,YES,1,1,Europe,43.0,YES
+16438,married,female,10000.0,0,Partial High School,Manual,NO,2,1,Europe,30.0,NO
+14238,married,male,120000.0,0,Partial High School,Professional,YES,4,10,Pacific,36.0,YES
+16200,single,female,10000.0,0,Partial High School,Manual,NO,2,1,Europe,35.0,NO
+24857,married,female,130000.0,3,High School,Professional,YES,4,1,Europe,52.0,NO
+26956,single,female,20000.0,0,Partial College,Manual,NO,1,5,Europe,36.0,YES
+14517,married,female,20000.0,3,High School,Skilled Manual,NO,2,2,Pacific,62.0,NO
+12678,single,female,130000.0,4,High School,Management,YES,4,1,Pacific,31.0,NO
+16188,single,female,20000.0,0,Partial High School,Manual,NO,2,2,Europe,26.0,NO
+27969,married,male,80000.0,0,Bachelors,Professional,YES,2,10,Pacific,29.0,YES
+15752,married,male,80000.0,2,High School,Skilled Manual,NO,2,2,Pacific,50.0,YES
+27745,single,male,40000.0,2,Bachelors,Management,YES,2,10,Pacific,63.0,YES
+20828,married,female,30000.0,4,Graduate Degree,Clerical,YES,0,1,Europe,45.0,YES
+19461,single,female,10000.0,4,Partial High School,Manual,YES,2,1,Europe,40.0,NO
+26941,married,male,30000.0,0,Bachelors,Clerical,YES,0,1,Europe,47.0,YES
+28412,single,male,20000.0,0,High School,Manual,NO,1,5,Europe,29.0,NO
+24485,single,male,40000.0,2,Bachelors,Management,NO,1,10,Pacific,52.0,YES
+16514,single,male,10000.0,0,Bachelors,Manual,YES,1,2,Pacific,26.0,YES
+17191,single,male,130000.0,3,Partial College,Professional,NO,3,1,Europe,51.0,YES
+19608,married,male,80000.0,5,Bachelors,Professional,YES,4,2,Pacific,40.0,NO
+24119,single,male,30000.0,0,Partial College,Clerical,NO,1,5,Europe,29.0,NO
+25458,married,male,20000.0,1,High School,Manual,NO,1,2,Europe,40.0,YES
+26886,single,female,30000.0,0,Partial College,Clerical,NO,1,1,Europe,29.0,YES
+28436,single,male,30000.0,0,Partial College,Clerical,NO,1,1,Europe,30.0,YES
+19562,single,female,60000.0,2,Bachelors,Professional,YES,1,5,Pacific,37.0,YES
+15608,single,female,30000.0,0,Partial College,Clerical,NO,1,5,Europe,33.0,NO
+16487,single,female,30000.0,3,High School,Skilled Manual,YES,2,10,Pacific,55.0,NO
+17197,single,female,90000.0,5,Bachelors,Professional,YES,2,10,Europe,62.0,NO
+12507,married,male,30000.0,1,Partial College,Clerical,YES,1,1,Europe,43.0,NO
+23940,married,male,40000.0,1,Bachelors,Skilled Manual,YES,1,1,Europe,44.0,YES
+19441,married,male,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,25.0,YES
+26852,married,female,20000.0,3,High School,Manual,YES,2,1,Europe,43.0,NO
+12274,single,male,10000.0,2,High School,Manual,YES,0,1,Europe,35.0,NO
+20236,single,male,60000.0,3,Bachelors,Professional,NO,2,1,Pacific,43.0,YES
+24149,married,male,10000.0,2,Partial College,Manual,YES,0,2,Europe,49.0,NO
+26139,single,male,60000.0,1,Partial College,Skilled Manual,YES,1,10,Pacific,45.0,NO
+18491,single,female,70000.0,2,High School,Professional,YES,2,10,Pacific,49.0,YES
+22707,single,female,30000.0,0,Partial College,Clerical,NO,1,5,Europe,30.0,NO
+20430,married,male,70000.0,2,Partial College,Skilled Manual,YES,2,10,Pacific,52.0,YES
+27494,single,female,40000.0,2,Partial College,Skilled Manual,NO,2,2,Pacific,53.0,YES
+26829,married,female,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,38.0,YES
+28395,single,male,40000.0,0,Bachelors,Professional,NO,0,1,Europe,39.0,YES
+21006,single,female,30000.0,1,Partial College,Manual,NO,0,1,Europe,46.0,YES
+14682,single,female,70000.0,0,Bachelors,Professional,NO,1,10,Pacific,38.0,NO
+17650,single,female,40000.0,2,Partial College,Clerical,YES,2,2,Europe,35.0,NO
+29191,single,female,130000.0,1,Bachelors,Management,NO,1,1,Pacific,36.0,YES
+15030,married,male,20000.0,0,Bachelors,Clerical,YES,0,1,Pacific,26.0,YES
+24140,single,male,10000.0,0,Graduate Degree,Manual,NO,0,1,Europe,30.0,YES
+22496,married,female,30000.0,1,Bachelors,Skilled Manual,YES,2,1,Europe,42.0,NO
+24065,single,female,20000.0,0,High School,Manual,YES,0,1,Europe,40.0,YES
+19914,married,male,80000.0,5,Bachelors,Management,YES,2,5,Europe,62.0,NO
+12871,single,female,30000.0,0,Partial College,Clerical,NO,1,5,Europe,29.0,NO
+22988,married,female,40000.0,2,Bachelors,Management,YES,2,10,Pacific,66.0,YES
+12344,single,female,80000.0,0,Bachelors,Professional,NO,3,10,Pacific,31.0,NO
+23627,single,female,100000.0,3,Partial College,Management,NO,4,10,Europe,56.0,NO
+27775,single,female,40000.0,0,Bachelors,Clerical,NO,0,1,Europe,38.0,YES
+29301,married,male,80000.0,5,Bachelors,Professional,YES,4,2,Pacific,40.0,NO
+12716,single,male,30000.0,0,Partial College,Clerical,YES,1,5,Europe,32.0,NO
+12472,married,male,30000.0,1,Bachelors,Clerical,YES,1,5,Europe,39.0,NO
+20970,single,male,10000.0,2,Partial College,Manual,YES,1,1,Europe,52.0,YES
+26818,single,male,10000.0,3,High School,Manual,YES,1,1,Europe,39.0,YES
+12993,married,male,60000.0,2,Bachelors,Professional,YES,1,5,Pacific,37.0,NO
+14192,married,male,90000.0,4,High School,Management,YES,3,10,Europe,56.0,YES
+19477,married,male,40000.0,0,Bachelors,Professional,YES,0,1,Europe,40.0,YES
+26796,single,male,40000.0,2,Bachelors,Management,YES,2,10,Pacific,65.0,YES
+21094,single,female,30000.0,2,Bachelors,Clerical,YES,2,1,Europe,42.0,NO
+12234,married,male,10000.0,2,Partial College,Manual,YES,1,5,Europe,52.0,NO
+28683,single,female,10000.0,1,High School,Manual,NO,1,10,Europe,35.0,YES
+17994,single,male,20000.0,2,High School,Manual,YES,2,1,Europe,42.0,NO
+24273,married,female,20000.0,2,Partial High School,Clerical,YES,2,10,Pacific,55.0,YES
+26547,single,female,30000.0,2,Partial College,Clerical,NO,2,10,Pacific,60.0,YES
+22500,single,male,40000.0,0,Bachelors,Professional,NO,0,1,Europe,40.0,YES
+23993,single,female,10000.0,0,Partial College,Manual,NO,1,1,Pacific,26.0,YES
+14832,married,male,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,42.0,YES
+16614,married,female,80000.0,0,Bachelors,Professional,YES,3,10,Pacific,32.0,NO
+20877,single,male,30000.0,1,Bachelors,Clerical,YES,0,2,Europe,37.0,YES
+20729,married,female,40000.0,2,Partial College,Clerical,NO,1,1,Europe,34.0,NO
+22464,married,male,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,37.0,YES
+19475,married,female,40000.0,0,Bachelors,Professional,NO,0,1,Europe,40.0,YES
+19675,married,male,20000.0,4,High School,Skilled Manual,YES,2,10,Pacific,60.0,NO
+12728,single,male,30000.0,0,Partial College,Clerical,NO,1,2,Europe,27.0,NO
+26154,married,male,60000.0,1,Partial College,Skilled Manual,YES,1,10,Pacific,43.0,YES
+29117,single,male,100000.0,1,Bachelors,Management,NO,3,1,Pacific,48.0,NO
+17845,single,female,20000.0,0,Partial High School,Manual,NO,2,2,Europe,32.0,NO
+25058,married,male,100000.0,1,Bachelors,Management,YES,3,5,Pacific,47.0,NO
+23426,single,male,80000.0,5,Graduate Degree,Management,YES,3,1,Pacific,40.0,NO
+14798,single,female,10000.0,4,Partial High School,Manual,YES,2,1,Europe,41.0,YES
+12664,married,female,130000.0,5,Partial College,Professional,YES,4,1,Europe,59.0,NO
+23979,single,male,10000.0,2,Bachelors,Manual,NO,0,1,Europe,50.0,NO
+25605,single,female,20000.0,2,Partial College,Manual,NO,1,1,Europe,54.0,YES
+20797,married,female,10000.0,1,Bachelors,Manual,YES,0,1,Europe,48.0,NO
+21980,single,female,60000.0,1,Bachelors,Professional,YES,1,10,Pacific,44.0,YES
+25460,married,female,20000.0,2,High School,Manual,YES,0,1,Europe,40.0,YES
+29181,single,female,60000.0,2,Bachelors,Professional,NO,1,1,Pacific,38.0,YES
+24279,single,male,40000.0,2,Partial College,Skilled Manual,NO,2,2,Pacific,52.0,NO
+22402,married,male,10000.0,0,Partial College,Manual,YES,1,5,Pacific,25.0,YES
+15465,married,female,10000.0,0,Partial College,Manual,NO,1,1,Pacific,25.0,NO
+26757,single,male,90000.0,1,Bachelors,Professional,YES,1,5,Pacific,47.0,YES
+14233,single,male,100000.0,0,High School,Management,YES,3,10,Pacific,35.0,NO
+14058,single,male,70000.0,0,Bachelors,Professional,NO,1,10,Pacific,41.0,YES
+12273,married,male,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,47.0,NO
+17203,married,female,130000.0,4,Partial College,Professional,YES,4,10,Europe,61.0,YES
+18144,married,female,80000.0,5,Bachelors,Management,YES,2,5,Europe,61.0,NO
+23963,married,male,10000.0,0,Partial High School,Manual,NO,2,1,Europe,33.0,NO
+17907,married,female,10000.0,0,Partial College,Manual,YES,1,5,Pacific,27.0,NO
+19442,single,male,50000.0,0,Graduate Degree,Skilled Manual,YES,0,1,Europe,37.0,YES
+17504,single,female,80000.0,2,Partial College,Skilled Manual,YES,2,10,Pacific,52.0,YES
+12253,single,female,20000.0,0,Partial College,Manual,YES,0,1,Pacific,29.0,YES
+27304,single,female,110000.0,2,Partial College,Professional,NO,3,10,Europe,48.0,NO
+12212,married,female,10000.0,0,Graduate Degree,Manual,YES,0,1,Europe,37.0,YES
+25529,single,male,10000.0,1,Graduate Degree,Manual,YES,0,1,Europe,44.0,NO
+22170,married,female,30000.0,3,Partial College,Clerical,NO,2,2,Pacific,55.0,YES
+19445,married,female,10000.0,2,High School,Manual,NO,1,1,Europe,38.0,NO
+15265,single,male,40000.0,2,Bachelors,Management,YES,2,10,Pacific,66.0,YES
+28918,married,female,130000.0,4,High School,Management,NO,4,10,Europe,58.0,NO
+15799,married,female,90000.0,1,Bachelors,Professional,YES,1,5,Pacific,47.0,YES
+11047,married,female,30000.0,3,High School,Skilled Manual,NO,2,2,Pacific,56.0,YES
+18151,single,male,80000.0,5,Partial College,Professional,NO,2,10,Europe,59.0,NO
+20606,married,female,70000.0,0,Bachelors,Professional,YES,4,10,Pacific,32.0,YES
+19482,married,male,30000.0,1,Partial College,Clerical,YES,1,1,Europe,44.0,YES
+16489,married,male,30000.0,3,High School,Skilled Manual,YES,2,10,Pacific,55.0,NO
+26944,single,male,90000.0,2,High School,Manual,YES,0,1,Europe,36.0,YES
+15682,single,female,80000.0,5,Bachelors,Management,YES,2,10,Europe,62.0,NO
+26032,married,female,70000.0,5,Bachelors,Professional,YES,4,10,Pacific,41.0,NO
+17843,single,female,10000.0,0,Partial High School,Manual,NO,2,1,Europe,32.0,NO
+25559,single,male,20000.0,0,Bachelors,Clerical,YES,0,1,Pacific,25.0,YES
+16209,single,female,50000.0,0,Graduate Degree,Skilled Manual,YES,0,2,Europe,36.0,NO
+11147,married,male,60000.0,2,Graduate Degree,Management,YES,1,1,Pacific,67.0,YES
+15214,single,female,100000.0,0,Graduate Degree,Management,NO,1,2,Pacific,39.0,YES
+11453,single,male,80000.0,0,Bachelors,Professional,NO,3,10,Pacific,33.0,YES
+24584,single,male,60000.0,0,Bachelors,Professional,NO,3,5,Pacific,31.0,NO
+12585,married,male,10000.0,1,High School,Manual,YES,0,5,Pacific,27.0,YES
+18626,single,male,40000.0,2,Partial College,Clerical,YES,0,2,Europe,33.0,YES
+29298,single,female,60000.0,1,Partial College,Skilled Manual,YES,1,10,Pacific,46.0,YES
+24842,single,female,90000.0,3,High School,Professional,NO,1,5,Europe,51.0,NO
+15657,married,male,30000.0,3,Graduate Degree,Clerical,YES,0,1,Europe,46.0,YES
+11415,single,male,90000.0,5,Partial College,Professional,NO,2,10,Europe,62.0,NO
+28729,single,female,20000.0,0,Partial High School,Manual,YES,2,2,Europe,26.0,YES
+22633,single,female,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,37.0,YES
+25649,single,female,30000.0,3,Partial College,Clerical,YES,0,1,Europe,42.0,YES
+14669,married,female,80000.0,4,Graduate Degree,Management,YES,1,1,Pacific,36.0,NO
+19299,married,female,50000.0,0,Graduate Degree,Skilled Manual,YES,0,1,Europe,36.0,YES
+20946,single,female,30000.0,0,Partial College,Clerical,NO,1,5,Europe,30.0,NO
+11451,single,male,70000.0,0,Bachelors,Professional,NO,4,10,Pacific,31.0,YES
+25553,married,male,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,65.0,YES
+27951,single,male,80000.0,4,Partial College,Professional,NO,2,5,Europe,54.0,YES
+25026,married,male,20000.0,2,Partial High School,Clerical,YES,3,10,Pacific,54.0,NO
+13673,single,female,20000.0,0,Partial High School,Manual,NO,2,1,Europe,25.0,NO
+16043,single,male,10000.0,1,Bachelors,Manual,YES,0,1,Europe,48.0,NO
+22399,single,male,10000.0,0,Partial College,Manual,YES,1,2,Pacific,26.0,YES
+27696,married,male,60000.0,1,Bachelors,Professional,YES,1,10,Pacific,43.0,YES
+25313,single,male,10000.0,0,Partial High School,Manual,NO,2,2,Europe,35.0,NO
+13813,married,female,30000.0,3,Partial College,Clerical,NO,0,1,Europe,42.0,NO
+18711,single,female,70000.0,5,Bachelors,Professional,YES,4,10,Pacific,39.0,NO
+19650,married,female,30000.0,2,Partial College,Clerical,NO,2,1,Pacific,67.0,NO
+14135,married,male,20000.0,1,Partial College,Manual,YES,0,2,Europe,35.0,NO
+12833,single,female,20000.0,3,High School,Manual,YES,1,1,Europe,42.0,YES
+26849,married,male,10000.0,3,Partial High School,Manual,YES,2,1,Europe,43.0,NO
+20962,married,female,20000.0,1,Graduate Degree,Clerical,YES,0,1,Europe,45.0,NO
+28915,single,male,80000.0,5,High School,Management,YES,3,10,Europe,57.0,NO
+22830,married,male,120000.0,4,Partial College,Management,YES,3,10,Europe,56.0,NO
+14777,married,female,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,38.0,YES
+12591,married,female,30000.0,4,Graduate Degree,Clerical,YES,0,1,Europe,45.0,NO
+24174,married,male,20000.0,0,Bachelors,Clerical,YES,0,1,Pacific,27.0,YES
+24611,single,male,90000.0,0,Bachelors,Professional,NO,4,10,Pacific,35.0,YES
+11340,married,female,10000.0,1,Graduate Degree,Clerical,YES,0,1,Europe,70.0,YES
+25693,single,female,30000.0,5,Graduate Degree,Clerical,YES,0,1,Europe,44.0,YES
+25555,married,female,10000.0,0,Partial College,Manual,NO,1,1,Pacific,26.0,YES
+22006,married,male,70000.0,5,Partial College,Skilled Manual,YES,3,10,Pacific,46.0,NO
+20060,single,female,30000.0,0,High School,Manual,NO,1,5,Europe,34.0,YES
+17702,married,male,10000.0,1,Graduate Degree,Manual,YES,0,1,Europe,37.0,NO
+12503,single,female,30000.0,3,Partial College,Clerical,YES,2,1,Europe,27.0,NO
+23908,single,male,30000.0,1,Bachelors,Clerical,NO,1,1,Europe,39.0,YES
+22527,single,female,20000.0,0,High School,Manual,NO,1,5,Europe,29.0,NO
+19057,married,female,120000.0,3,Bachelors,Management,NO,2,10,Europe,52.0,YES
+18494,married,male,110000.0,5,Bachelors,Management,YES,4,5,Pacific,48.0,YES
+11249,married,female,130000.0,3,Partial College,Professional,YES,3,1,Europe,51.0,YES
+21568,married,female,100000.0,0,High School,Management,YES,4,10,Pacific,34.0,YES
+13981,married,female,10000.0,5,High School,Skilled Manual,NO,3,2,Pacific,62.0,NO
+23432,single,male,70000.0,0,Bachelors,Professional,YES,1,10,Pacific,37.0,YES
+22931,married,male,100000.0,5,Graduate Degree,Management,NO,1,2,Pacific,77.5,YES
+18172,married,male,130000.0,4,High School,Professional,YES,3,1,Europe,55.0,NO
+12666,single,male,60000.0,0,Bachelors,Professional,NO,4,5,Pacific,31.0,NO
+20598,married,male,100000.0,3,Partial High School,Professional,YES,0,10,Europe,59.0,YES
+21375,single,male,20000.0,2,Partial High School,Clerical,YES,2,10,Pacific,57.0,NO
+20839,single,female,30000.0,3,Graduate Degree,Clerical,YES,0,1,Europe,47.0,YES
+21738,married,male,20000.0,1,Graduate Degree,Clerical,YES,0,1,Europe,43.0,NO
+14164,single,female,50000.0,0,Graduate Degree,Skilled Manual,YES,0,1,Europe,36.0,YES
+14193,single,female,100000.0,3,Partial College,Management,YES,4,10,Europe,56.0,NO
+22672,single,female,30000.0,2,Partial College,Clerical,YES,0,1,Europe,43.0,NO
+26219,married,female,40000.0,1,Bachelors,Skilled Manual,YES,1,2,Europe,33.0,YES
+28468,married,female,10000.0,2,Partial College,Manual,YES,0,2,Europe,51.0,NO
+23419,single,female,70000.0,5,Bachelors,Professional,YES,3,10,Pacific,39.0,NO
+17964,married,male,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,37.0,YES
+20919,single,female,30000.0,2,Partial College,Clerical,YES,2,1,Europe,42.0,NO
+20927,single,female,20000.0,5,High School,Manual,YES,2,1,Europe,27.0,NO
+13133,single,male,100000.0,5,Bachelors,Professional,YES,1,10,Pacific,47.0,YES
+19626,married,male,70000.0,5,Partial College,Skilled Manual,YES,3,10,Pacific,45.0,NO
+21039,single,female,50000.0,0,Graduate Degree,Skilled Manual,NO,0,1,Europe,37.0,YES
+12231,single,female,10000.0,2,Partial College,Manual,YES,0,1,Europe,51.0,YES
+25665,single,female,20000.0,0,High School,Manual,NO,1,2,Europe,28.0,NO
+24061,married,male,10000.0,4,Partial High School,Manual,YES,1,1,Europe,40.0,YES
+26879,single,female,20000.0,0,High School,Manual,NO,1,5,Europe,30.0,NO
+12284,married,female,30000.0,0,Bachelors,Clerical,NO,0,1,Europe,36.0,YES
+26654,married,female,90000.0,1,Graduate Degree,Management,YES,0,1,Pacific,37.0,YES
+14545,married,female,10000.0,2,Partial College,Manual,YES,0,2,Europe,49.0,NO
+24201,married,female,10000.0,2,High School,Manual,YES,0,1,Europe,37.0,YES
+20625,married,male,100000.0,0,High School,Management,YES,3,10,Pacific,35.0,YES
+16390,single,male,30000.0,1,Bachelors,Clerical,NO,0,1,Europe,38.0,YES
+14804,single,female,10000.0,3,Partial High School,Manual,YES,2,1,Europe,43.0,NO
+12629,single,male,20000.0,1,Partial College,Manual,NO,0,1,Europe,37.0,NO
+14696,single,male,10000.0,0,Partial High School,Manual,NO,2,1,Europe,34.0,NO
+22005,married,female,70000.0,5,Partial College,Skilled Manual,NO,3,10,Pacific,46.0,NO
+14544,single,male,10000.0,1,Partial College,Manual,YES,0,1,Europe,49.0,NO
+14312,married,female,60000.0,1,Partial College,Skilled Manual,YES,1,10,Pacific,45.0,NO
+29120,single,female,100000.0,1,Bachelors,Management,YES,4,5,Pacific,48.0,NO
+24187,single,female,30000.0,3,Graduate Degree,Clerical,NO,0,1,Europe,46.0,YES
+15758,married,male,130000.0,0,Graduate Degree,Management,YES,0,10,Pacific,48.0,NO
+29094,married,male,30000.0,3,High School,Skilled Manual,YES,2,10,Pacific,54.0,YES
+28319,single,female,60000.0,1,Partial College,Skilled Manual,NO,1,1,Pacific,46.0,YES
+16406,married,male,40000.0,0,Bachelors,Clerical,NO,0,1,Europe,38.0,YES
+20923,married,female,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,42.0,YES
+11378,single,female,10000.0,1,High School,Manual,NO,1,5,Europe,46.0,YES
+20851,single,male,20000.0,0,Partial College,Manual,NO,1,5,Europe,36.0,YES
+21557,single,female,110000.0,0,Partial College,Management,YES,3,10,Pacific,32.0,YES
+26663,single,female,60000.0,2,Bachelors,Professional,NO,1,1,Pacific,39.0,YES
+11896,married,male,100000.0,1,Graduate Degree,Management,YES,0,5,Pacific,36.0,YES
+14189,married,female,90000.0,4,High School,Professional,NO,2,5,Europe,54.0,YES
+13136,married,female,30000.0,2,Partial College,Clerical,NO,2,10,Pacific,69.0,NO
+25906,single,female,10000.0,5,High School,Skilled Manual,NO,2,2,Pacific,62.0,NO
+17926,single,female,40000.0,0,Bachelors,Clerical,NO,0,1,Pacific,28.0,YES
+26928,single,male,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,62.0,YES
+20897,married,female,30000.0,1,Bachelors,Skilled Manual,YES,2,1,Europe,40.0,NO
+28207,married,male,80000.0,4,Graduate Degree,Management,YES,1,1,Pacific,36.0,YES
+25923,single,male,10000.0,2,Partial High School,Clerical,YES,2,10,Pacific,58.0,NO
+11000,married,male,90000.0,2,Bachelors,Professional,YES,0,2,Pacific,40.0,YES
+20974,married,male,10000.0,2,Bachelors,Clerical,YES,1,1,Europe,66.0,NO
+28758,married,male,40000.0,2,Partial College,Clerical,YES,1,2,Europe,35.0,YES
+11381,married,female,20000.0,2,Partial College,Manual,YES,1,5,Europe,47.0,YES
+17522,married,male,120000.0,4,Bachelors,Management,YES,1,5,Pacific,47.0,NO
+21207,married,male,60000.0,1,Partial College,Skilled Manual,YES,1,10,Pacific,46.0,NO
+28102,married,male,20000.0,4,High School,Skilled Manual,YES,2,10,Pacific,58.0,YES
+23105,single,male,40000.0,3,Partial High School,Clerical,NO,2,10,Pacific,52.0,YES
+18740,married,male,80000.0,5,Bachelors,Professional,NO,1,1,Pacific,47.0,YES
+21213,single,male,70000.0,0,Bachelors,Professional,NO,1,10,Pacific,41.0,NO
+17352,married,male,50000.0,2,Graduate Degree,Management,YES,1,10,Pacific,64.0,YES
+14154,married,male,30000.0,0,Bachelors,Clerical,YES,0,1,Europe,35.0,YES
+19066,married,male,130000.0,4,Partial College,Professional,NO,3,10,Europe,54.0,NO
+11386,married,female,30000.0,3,Bachelors,Clerical,YES,0,1,Europe,45.0,NO
+20228,married,male,100000.0,0,Graduate Degree,Management,YES,0,5,Pacific,40.0,YES
+16410,single,female,10000.0,4,Partial High School,Manual,YES,2,1,Europe,41.0,YES
+27760,single,female,40000.0,0,Graduate Degree,Clerical,NO,0,1,Europe,37.0,YES
+22930,married,male,90000.0,4,Bachelors,Professional,YES,0,2,Pacific,38.0,YES
+23780,single,male,40000.0,2,Partial College,Clerical,NO,2,1,Europe,36.0,YES
+20994,married,female,20000.0,0,Bachelors,Clerical,NO,0,1,Pacific,26.0,YES
+28379,married,male,30000.0,1,Bachelors,Skilled Manual,YES,2,1,Europe,40.0,NO
+14865,single,male,40000.0,2,Partial College,Clerical,YES,2,2,Europe,36.0,NO
+12663,married,female,90000.0,5,Partial High School,Skilled Manual,YES,2,10,Europe,59.0,NO
+24898,single,female,80000.0,0,Bachelors,Professional,YES,3,10,Pacific,32.0,NO
+19508,married,male,10000.0,0,Partial High School,Manual,NO,2,1,Europe,30.0,NO
+11489,single,female,20000.0,0,Partial High School,Manual,NO,2,2,Europe,35.0,YES
+18160,married,male,130000.0,3,High School,Professional,YES,4,10,Europe,51.0,YES
+25241,married,male,90000.0,2,Bachelors,Professional,YES,1,10,Pacific,47.0,NO
+24369,married,male,80000.0,5,Graduate Degree,Management,NO,2,1,Pacific,39.0,NO
+27165,single,male,20000.0,0,Partial High School,Manual,NO,2,1,Europe,34.0,NO
+29424,married,male,10000.0,0,Partial High School,Manual,YES,2,1,Europe,32.0,NO
+15926,single,female,120000.0,3,High School,Professional,YES,4,10,Europe,50.0,YES
+14554,married,male,20000.0,1,Bachelors,Clerical,YES,0,1,Europe,66.0,NO
+16468,single,male,30000.0,0,Partial College,Clerical,YES,1,5,Europe,30.0,NO
+19174,single,female,30000.0,0,High School,Manual,NO,1,5,Europe,32.0,YES
+19183,single,male,10000.0,0,Partial High School,Manual,YES,2,2,Europe,35.0,NO
+13683,single,female,30000.0,0,High School,Manual,NO,1,5,Europe,32.0,NO
+17848,single,male,30000.0,0,Partial College,Clerical,NO,1,5,Europe,31.0,YES
+17894,married,female,20000.0,1,Bachelors,Clerical,YES,0,1,Europe,50.0,YES
+25651,married,male,40000.0,1,Bachelors,Skilled Manual,NO,0,1,Europe,43.0,YES
+22936,single,female,60000.0,1,Partial College,Skilled Manual,NO,1,1,Pacific,45.0,YES
+23915,married,male,20000.0,2,High School,Manual,YES,2,1,Europe,42.0,NO
+24121,single,female,30000.0,0,Partial College,Clerical,NO,1,1,Europe,29.0,YES
+27878,single,male,20000.0,0,Partial College,Manual,NO,0,1,Pacific,28.0,YES
+13572,single,male,10000.0,3,High School,Manual,YES,0,1,Europe,37.0,YES
+27941,married,female,80000.0,4,Partial College,Professional,YES,2,5,Europe,53.0,NO
+26354,single,male,40000.0,0,Graduate Degree,Clerical,NO,0,1,Europe,38.0,YES
+14785,single,male,30000.0,1,Bachelors,Clerical,NO,1,2,Europe,39.0,NO
+17238,single,male,80000.0,0,Bachelors,Professional,YES,3,10,Pacific,32.0,NO
+22538,single,female,10000.0,0,Partial High School,Manual,YES,2,2,Europe,33.0,NO
+12332,married,male,90000.0,4,High School,Management,YES,3,10,Europe,58.0,YES
+17230,married,male,80000.0,0,Bachelors,Professional,YES,3,10,Pacific,30.0,NO
+13082,single,male,130000.0,0,Graduate Degree,Management,YES,0,5,Pacific,48.0,YES
+22518,single,female,30000.0,3,Partial College,Clerical,NO,2,1,Europe,27.0,YES
+13687,married,male,40000.0,1,Bachelors,Skilled Manual,YES,1,1,Europe,33.0,YES
+23571,married,female,40000.0,2,Bachelors,Management,YES,2,1,Pacific,66.0,YES
+19305,single,female,10000.0,2,High School,Manual,YES,1,1,Europe,38.0,YES
+22636,single,female,40000.0,0,Bachelors,Clerical,NO,0,1,Europe,38.0,YES
+17310,married,male,60000.0,1,Partial College,Skilled Manual,YES,1,1,Pacific,45.0,YES
+12133,married,female,130000.0,3,Partial College,Professional,YES,3,10,Europe,50.0,YES
+25918,single,female,30000.0,2,Partial College,Clerical,NO,2,10,Pacific,60.0,YES
+25752,single,female,20000.0,2,Partial College,Manual,NO,1,1,Europe,53.0,YES
+17324,married,female,100000.0,4,Bachelors,Professional,YES,1,10,Pacific,46.0,NO
+22918,single,male,80000.0,5,Graduate Degree,Management,YES,3,1,Pacific,50.0,NO
+12510,married,male,40000.0,1,Bachelors,Skilled Manual,YES,1,1,Europe,43.0,YES
+25512,single,male,20000.0,0,High School,Manual,NO,1,5,Europe,30.0,NO
+16179,single,female,80000.0,5,Bachelors,Professional,YES,4,2,Pacific,38.0,NO
+15628,married,female,40000.0,1,Bachelors,Skilled Manual,YES,1,1,Europe,77.5,NO
+20977,married,male,20000.0,1,Bachelors,Clerical,YES,0,1,Europe,64.0,YES
+18140,married,male,130000.0,3,Partial College,Professional,NO,3,10,Europe,51.0,YES
+20417,married,male,30000.0,3,Partial College,Clerical,NO,2,10,Pacific,56.0,NO
+18267,married,male,60000.0,3,Bachelors,Professional,YES,2,10,Pacific,43.0,NO
+13620,single,male,70000.0,0,Bachelors,Professional,NO,3,10,Pacific,30.0,YES
+22974,married,female,30000.0,2,Partial College,Clerical,YES,2,10,Pacific,69.0,NO
+13586,married,male,80000.0,4,Partial College,Professional,YES,2,10,Europe,53.0,NO
+17978,married,male,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,37.0,YES
+12581,single,female,10000.0,0,Partial College,Manual,NO,1,1,Pacific,28.0,YES
+18018,single,male,30000.0,3,Partial College,Clerical,YES,0,1,Europe,43.0,NO
+28957,single,female,120000.0,0,Partial High School,Professional,YES,4,10,Pacific,34.0,YES
+13690,single,female,20000.0,0,Partial High School,Manual,NO,2,2,Europe,34.0,YES
+12568,married,female,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,64.0,NO
+13122,married,female,80000.0,0,Bachelors,Professional,YES,1,2,Pacific,41.0,YES
+21184,single,male,70000.0,0,Bachelors,Professional,NO,1,10,Pacific,38.0,NO
+26150,single,female,70000.0,0,Bachelors,Professional,NO,1,1,Pacific,41.0,YES
+24151,single,male,20000.0,1,Bachelors,Clerical,NO,0,1,Europe,51.0,NO
+23962,married,female,10000.0,0,Partial High School,Manual,YES,2,2,Europe,32.0,NO
+17793,married,female,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,38.0,YES
+14926,married,male,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,38.0,YES
+16163,single,male,60000.0,2,Bachelors,Professional,YES,1,5,Pacific,38.0,YES
+21365,married,female,10000.0,2,Partial High School,Clerical,YES,2,10,Pacific,58.0,NO
+27771,single,male,30000.0,1,Bachelors,Clerical,YES,1,2,Europe,39.0,YES
+26167,single,female,40000.0,2,Bachelors,Management,NO,1,10,Pacific,53.0,YES
+25792,single,female,110000.0,3,Bachelors,Management,YES,4,10,Europe,53.0,NO
+11555,married,female,40000.0,1,Bachelors,Clerical,YES,0,1,Europe,77.5,NO
+22381,married,male,10000.0,1,Graduate Degree,Manual,YES,0,1,Europe,44.0,NO
+17882,married,male,20000.0,1,Graduate Degree,Clerical,YES,0,1,Europe,44.0,NO
+22174,married,male,30000.0,3,High School,Skilled Manual,YES,2,10,Pacific,54.0,YES
+22439,married,female,30000.0,0,Bachelors,Clerical,YES,0,1,Europe,37.0,YES
+18012,married,female,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,41.0,NO
+27582,single,female,90000.0,2,Bachelors,Professional,NO,0,1,Pacific,36.0,YES
+12744,single,female,40000.0,2,Partial College,Clerical,YES,0,1,Europe,33.0,NO
+22821,married,female,130000.0,3,Partial College,Professional,YES,4,1,Europe,52.0,NO
+20171,married,female,20000.0,2,Partial College,Manual,YES,1,1,Europe,46.0,YES
+11116,married,male,70000.0,5,Partial College,Skilled Manual,YES,2,10,Pacific,43.0,NO
+20053,single,male,40000.0,2,Partial College,Clerical,YES,0,1,Europe,34.0,NO
+25266,single,female,30000.0,2,Partial College,Clerical,NO,2,10,Pacific,67.0,NO
+17960,married,female,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,35.0,YES
+13961,married,female,80000.0,5,Graduate Degree,Management,YES,3,1,Pacific,40.0,NO
+11897,single,male,60000.0,2,Bachelors,Professional,NO,1,1,Pacific,37.0,YES
+11139,single,female,30000.0,2,Partial College,Clerical,NO,2,10,Pacific,67.0,NO
+11576,married,male,30000.0,1,Bachelors,Skilled Manual,YES,2,1,Europe,41.0,YES
+19255,single,male,10000.0,2,Partial College,Manual,YES,1,1,Europe,51.0,YES
+18153,married,female,100000.0,2,Bachelors,Management,YES,4,10,Europe,59.0,NO
+14547,married,male,10000.0,2,Partial College,Manual,YES,0,2,Europe,51.0,NO
+24901,single,male,110000.0,0,Partial College,Management,NO,3,10,Pacific,32.0,YES
+27169,single,male,30000.0,0,High School,Manual,YES,1,5,Europe,34.0,YES
+14805,single,female,10000.0,3,Partial High School,Manual,YES,2,1,Europe,43.0,NO
+15822,married,male,40000.0,2,Bachelors,Management,YES,2,1,Pacific,67.0,NO
+19389,single,male,30000.0,0,Partial College,Clerical,NO,1,5,Europe,28.0,NO
+17048,single,female,90000.0,1,Graduate Degree,Management,YES,0,1,Pacific,36.0,YES
+22204,married,male,110000.0,4,Bachelors,Management,YES,3,5,Pacific,48.0,NO
+12718,single,female,30000.0,0,Partial College,Clerical,YES,1,5,Europe,31.0,NO
+15019,single,female,30000.0,3,High School,Skilled Manual,YES,2,10,Pacific,55.0,NO
+28488,single,male,20000.0,0,Partial College,Manual,YES,0,1,Pacific,28.0,YES
+21891,married,female,110000.0,0,High School,Management,YES,3,10,Pacific,34.0,YES
+27814,single,female,30000.0,3,Partial College,Clerical,NO,1,1,Europe,26.0,NO
+22175,married,female,30000.0,3,High School,Skilled Manual,YES,2,10,Pacific,53.0,YES
+29447,single,female,10000.0,2,Bachelors,Clerical,NO,1,5,Europe,68.0,NO
+19784,married,female,80000.0,2,High School,Skilled Manual,YES,2,10,Pacific,50.0,YES
+27824,single,female,30000.0,3,Partial College,Clerical,YES,2,1,Europe,28.0,YES
+24093,single,female,80000.0,0,Graduate Degree,Skilled Manual,NO,0,1,Europe,40.0,YES
+19618,married,male,70000.0,5,Partial College,Skilled Manual,YES,2,1,Pacific,44.0,NO
+21561,single,male,90000.0,0,Bachelors,Professional,NO,3,10,Pacific,34.0,YES
+11061,married,male,70000.0,2,Partial College,Skilled Manual,YES,2,10,Pacific,52.0,YES
+26651,single,male,80000.0,4,Graduate Degree,Management,YES,0,1,Pacific,36.0,YES
+21108,married,female,40000.0,1,Bachelors,Skilled Manual,YES,1,1,Europe,43.0,YES
+12731,single,male,30000.0,0,High School,Manual,NO,1,2,Europe,32.0,NO
+25307,married,female,40000.0,1,Bachelors,Skilled Manual,YES,1,2,Europe,32.0,YES
+14278,married,female,130000.0,0,Graduate Degree,Management,YES,1,10,Pacific,48.0,NO
+20711,married,female,40000.0,1,Bachelors,Skilled Manual,YES,0,2,Europe,32.0,YES
+11383,married,female,30000.0,3,Graduate Degree,Clerical,YES,0,1,Europe,46.0,NO
+12497,married,female,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,42.0,NO
+16559,single,female,10000.0,2,High School,Manual,YES,0,1,Europe,36.0,YES
+11585,married,female,40000.0,1,Bachelors,Skilled Manual,YES,0,1,Europe,41.0,NO
+20277,married,female,30000.0,2,Partial College,Clerical,NO,2,1,Pacific,69.0,NO
+26765,single,female,70000.0,5,Partial College,Skilled Manual,YES,2,10,Pacific,45.0,NO
+12389,single,male,30000.0,0,High School,Manual,NO,1,5,Europe,34.0,NO
+13585,married,female,80000.0,4,Partial College,Professional,NO,1,5,Europe,53.0,YES
+26385,single,male,120000.0,3,High School,Professional,NO,4,10,Europe,50.0,NO
+12236,married,female,20000.0,1,Partial College,Manual,YES,0,1,Europe,65.0,NO
+21560,married,male,120000.0,0,Partial High School,Professional,YES,4,10,Pacific,32.0,YES
+21554,single,female,80000.0,0,Bachelors,Professional,NO,3,10,Pacific,33.0,NO
+13662,single,male,20000.0,0,Partial High School,Manual,YES,2,2,Europe,31.0,YES
+13089,married,female,120000.0,1,Bachelors,Management,YES,2,1,Pacific,46.0,YES
+14791,married,female,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,39.0,YES
+19331,single,male,20000.0,2,High School,Manual,YES,1,1,Europe,40.0,NO
+17754,single,female,30000.0,3,Bachelors,Clerical,YES,0,1,Europe,46.0,YES
+11149,married,male,40000.0,2,Bachelors,Management,YES,2,1,Pacific,65.0,NO
+16549,single,female,30000.0,3,Bachelors,Clerical,YES,0,1,Europe,47.0,YES
+24305,single,male,100000.0,1,Bachelors,Management,NO,3,1,Pacific,46.0,YES
+18253,married,female,80000.0,5,Graduate Degree,Management,YES,3,1,Pacific,40.0,NO
+20147,married,female,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,65.0,NO
+15612,single,male,30000.0,0,High School,Manual,NO,1,2,Europe,28.0,NO
+28323,single,male,70000.0,0,Bachelors,Professional,NO,2,10,Pacific,43.0,YES
+22634,single,female,40000.0,0,Graduate Degree,Clerical,YES,0,1,Europe,38.0,YES
+15665,married,female,30000.0,0,Bachelors,Clerical,YES,0,1,Europe,47.0,YES
+27585,married,female,90000.0,2,Bachelors,Professional,NO,0,1,Pacific,36.0,YES
+19748,married,male,20000.0,4,High School,Skilled Manual,NO,2,2,Pacific,60.0,NO
+21974,single,female,70000.0,0,Bachelors,Professional,YES,1,10,Pacific,42.0,YES
+14032,married,male,70000.0,2,High School,Skilled Manual,NO,2,2,Pacific,50.0,YES
+22610,married,male,30000.0,0,Bachelors,Clerical,YES,0,1,Europe,35.0,YES
+26984,married,male,40000.0,1,Bachelors,Skilled Manual,YES,1,1,Europe,32.0,YES
+18294,married,female,90000.0,1,Bachelors,Professional,YES,1,10,Pacific,46.0,NO
+28564,single,female,40000.0,2,Partial College,Clerical,YES,0,2,Europe,33.0,YES
+28521,single,male,40000.0,0,Graduate Degree,Clerical,NO,0,1,Europe,36.0,YES
+15450,married,male,10000.0,1,Graduate Degree,Clerical,YES,0,1,Europe,70.0,NO
+25681,single,female,30000.0,0,Partial College,Clerical,NO,1,5,Europe,31.0,YES
+19491,single,male,30000.0,2,Partial College,Clerical,YES,2,1,Europe,42.0,NO
+26415,married,female,90000.0,4,Partial High School,Skilled Manual,YES,4,10,Europe,58.0,NO
+12821,married,male,40000.0,0,Bachelors,Clerical,YES,0,1,Europe,39.0,NO
+15629,single,female,10000.0,0,Partial High School,Manual,YES,2,2,Europe,34.0,NO
+27835,married,male,20000.0,0,Partial High School,Manual,YES,2,1,Europe,32.0,NO
+11738,married,male,60000.0,4,Bachelors,Professional,YES,0,5,North America,46.0,NO
+25065,married,male,70000.0,2,Partial High School,Skilled Manual,YES,2,10,North America,48.0,NO
+26238,single,female,40000.0,3,Partial College,Clerical,YES,1,2,North America,31.0,YES
+23707,single,male,70000.0,5,Bachelors,Management,YES,3,10,North America,60.0,YES
+27650,married,male,70000.0,4,High School,Professional,YES,0,10,North America,51.0,NO
+24981,married,male,60000.0,2,Partial College,Professional,YES,2,10,North America,56.0,NO
+20678,single,female,60000.0,3,Bachelors,Skilled Manual,YES,1,5,North America,40.0,YES
+15302,single,female,70000.0,1,Graduate Degree,Professional,YES,0,5,North America,34.0,YES
+26012,married,male,80000.0,1,Partial College,Skilled Manual,YES,1,5,North America,48.0,YES
+26575,single,female,40000.0,0,High School,Skilled Manual,NO,2,2,North America,31.0,YES
+15559,married,male,60000.0,5,Bachelors,Professional,YES,1,5,North America,47.0,NO
+19235,married,female,50000.0,0,Graduate Degree,Skilled Manual,YES,0,1,North America,34.0,NO
+15275,married,male,40000.0,0,Partial College,Skilled Manual,YES,1,10,North America,29.0,NO
+20339,married,female,130000.0,1,Bachelors,Management,YES,4,5,North America,44.0,YES
+25405,married,male,70000.0,2,Bachelors,Skilled Manual,YES,1,5,North America,38.0,YES
+15940,married,male,100000.0,4,Partial College,Professional,YES,4,1,North America,40.0,NO
+25074,married,female,70000.0,4,Bachelors,Professional,YES,2,5,North America,42.0,YES
+24738,married,female,40000.0,1,Partial College,Clerical,YES,1,2,North America,51.0,YES
+16337,married,male,60000.0,0,Partial College,Skilled Manual,NO,2,2,North America,29.0,NO
+24357,married,male,80000.0,3,Bachelors,Professional,YES,1,5,North America,48.0,YES
+18613,single,male,70000.0,0,Bachelors,Professional,NO,1,5,North America,37.0,YES
+12207,single,male,80000.0,4,Bachelors,Management,YES,0,10,North America,66.0,YES
+18052,married,female,60000.0,1,Partial College,Skilled Manual,YES,1,1,North America,45.0,YES
+13353,single,female,60000.0,4,Graduate Degree,Management,YES,2,10,North America,61.0,YES
+19399,single,male,40000.0,0,Bachelors,Professional,NO,1,5,North America,45.0,NO
+16154,married,female,70000.0,5,Bachelors,Professional,YES,2,5,North America,47.0,NO
+22219,married,female,60000.0,2,High School,Professional,YES,2,10,North America,49.0,NO
+17269,single,male,60000.0,3,Bachelors,Professional,NO,0,1,North America,47.0,YES
+23586,married,female,80000.0,0,Bachelors,Management,YES,1,2,North America,34.0,YES
+15740,married,male,80000.0,5,Bachelors,Management,YES,2,2,North America,64.0,NO
+27638,single,male,100000.0,1,Partial College,Professional,NO,3,2,North America,44.0,NO
+18976,single,male,40000.0,4,High School,Professional,YES,2,10,North America,62.0,YES
+19413,single,male,60000.0,3,Bachelors,Professional,NO,1,1,North America,47.0,YES
+13283,married,male,80000.0,3,Partial College,Professional,NO,2,1,North America,49.0,YES
+17471,single,female,80000.0,4,Graduate Degree,Management,YES,2,10,North America,67.0,NO
+16791,single,male,60000.0,5,Bachelors,Management,YES,3,10,North America,59.0,YES
+15382,married,female,110000.0,1,Bachelors,Management,YES,2,2,North America,44.0,NO
+11641,married,male,50000.0,1,Bachelors,Skilled Manual,YES,0,1,North America,36.0,NO
+11935,single,female,30000.0,0,Partial College,Skilled Manual,YES,1,10,North America,28.0,NO
+13233,married,male,60000.0,2,Partial College,Professional,YES,1,10,North America,57.0,YES
+25909,married,male,60000.0,0,Partial College,Skilled Manual,YES,1,10,North America,27.0,YES
+14092,single,male,30000.0,0,Partial High School,Clerical,YES,2,10,North America,28.0,NO
+29143,single,female,60000.0,1,Bachelors,Professional,NO,1,1,North America,44.0,YES
+24941,married,male,60000.0,3,Bachelors,Management,YES,2,10,North America,66.0,NO
+24637,married,male,40000.0,4,High School,Professional,YES,2,10,North America,64.0,NO
+23893,married,male,50000.0,3,Bachelors,Skilled Manual,YES,3,10,North America,41.0,NO
+13907,single,female,80000.0,3,Bachelors,Skilled Manual,YES,1,1,North America,41.0,YES
+14900,married,female,40000.0,1,Partial College,Clerical,YES,1,2,North America,49.0,YES
+11262,married,female,80000.0,4,Bachelors,Management,YES,0,1,North America,42.0,NO
+22294,single,female,70000.0,0,Bachelors,Professional,NO,1,5,North America,37.0,YES
+12195,single,female,70000.0,3,Graduate Degree,Management,YES,2,2,North America,52.0,NO
+25375,married,male,50000.0,1,Graduate Degree,Skilled Manual,YES,0,2,North America,34.0,NO
+11143,married,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,29.0,NO
+25898,married,female,70000.0,2,High School,Professional,YES,2,5,North America,53.0,NO
+24397,single,male,120000.0,2,Bachelors,Management,NO,4,2,North America,40.0,NO
+19758,single,male,60000.0,0,Partial College,Skilled Manual,NO,2,2,North America,29.0,NO
+15529,married,male,60000.0,4,Bachelors,Professional,YES,2,5,North America,43.0,YES
+19884,married,male,60000.0,2,High School,Professional,YES,2,5,North America,55.0,YES
+18674,single,female,80000.0,4,Graduate Degree,Skilled Manual,NO,0,1,North America,48.0,NO
+13453,married,female,130000.0,3,Bachelors,Management,YES,3,1,North America,45.0,YES
+14063,single,female,70000.0,0,Bachelors,Professional,NO,1,1,Pacific,42.0,YES
+27393,married,female,50000.0,4,Bachelors,Management,YES,2,10,North America,63.0,NO
+14417,single,male,60000.0,3,High School,Professional,YES,2,10,North America,54.0,YES
+17533,married,male,40000.0,3,Partial College,Professional,NO,2,10,North America,73.0,YES
+18580,married,female,60000.0,2,Graduate Degree,Professional,YES,0,5,North America,40.0,YES
+17025,single,male,50000.0,0,Partial College,Skilled Manual,NO,1,5,North America,39.0,YES
+25293,married,male,80000.0,4,Bachelors,Management,YES,0,2,North America,42.0,NO
+24725,married,female,40000.0,3,Partial College,Clerical,YES,0,2,North America,31.0,NO
+23200,married,female,50000.0,3,Bachelors,Skilled Manual,YES,2,1,North America,41.0,NO
+15895,single,female,60000.0,2,Bachelors,Management,YES,0,10,North America,58.0,NO
+18577,married,female,60000.0,0,Graduate Degree,Professional,YES,0,1,North America,40.0,NO
+27218,married,female,20000.0,2,Partial High School,Clerical,NO,0,1,North America,48.0,NO
+18560,married,female,70000.0,2,Graduate Degree,Professional,YES,0,5,North America,34.0,YES
+25006,single,female,30000.0,0,Partial College,Skilled Manual,YES,1,10,North America,28.0,NO
+17369,single,male,30000.0,0,Partial College,Skilled Manual,YES,1,10,North America,27.0,NO
+14495,married,male,40000.0,3,Partial College,Professional,NO,2,10,North America,54.0,YES
+18847,married,female,60000.0,2,Graduate Degree,Management,YES,2,10,North America,70.0,NO
+14754,married,male,40000.0,1,Partial College,Clerical,YES,1,2,North America,48.0,YES
+23378,married,male,70000.0,1,Partial College,Skilled Manual,YES,1,5,North America,44.0,YES
+26452,single,male,50000.0,3,Graduate Degree,Management,YES,2,10,North America,69.0,NO
+20370,married,male,70000.0,3,Partial High School,Skilled Manual,YES,2,10,North America,52.0,NO
+20528,married,male,40000.0,2,Partial High School,Skilled Manual,YES,2,5,North America,55.0,NO
+23549,single,male,30000.0,0,High School,Skilled Manual,YES,2,10,North America,30.0,NO
+21751,married,male,60000.0,3,Graduate Degree,Management,YES,2,2,North America,63.0,NO
+21266,single,female,80000.0,0,Bachelors,Management,YES,1,2,North America,34.0,YES
+13388,single,male,60000.0,2,Partial College,Professional,YES,1,10,North America,56.0,NO
+18752,single,female,40000.0,0,High School,Skilled Manual,YES,1,10,North America,31.0,NO
+16917,married,male,120000.0,1,Bachelors,Management,YES,4,1,North America,38.0,NO
+15313,married,male,60000.0,4,Bachelors,Management,YES,2,5,North America,59.0,NO
+25329,single,female,40000.0,3,Partial College,Clerical,NO,2,1,North America,32.0,NO
+20380,married,female,60000.0,3,Graduate Degree,Management,YES,2,10,North America,69.0,NO
+23089,married,male,40000.0,0,Partial College,Skilled Manual,YES,1,10,North America,28.0,NO
+13749,married,male,80000.0,4,Graduate Degree,Skilled Manual,YES,0,2,North America,47.0,NO
+24943,married,male,60000.0,3,Bachelors,Management,YES,2,10,North America,66.0,NO
+28667,single,male,70000.0,2,Bachelors,Skilled Manual,NO,1,1,North America,37.0,YES
+15194,single,male,120000.0,2,Bachelors,Management,NO,3,1,North America,39.0,YES
+17436,married,male,60000.0,2,High School,Professional,NO,2,2,North America,51.0,NO
+18935,married,female,130000.0,0,Graduate Degree,Management,YES,3,2,North America,40.0,NO
+16871,married,female,90000.0,2,High School,Professional,YES,1,10,North America,51.0,YES
+12100,single,male,60000.0,2,Bachelors,Management,YES,0,10,North America,57.0,NO
+23158,married,female,60000.0,1,Graduate Degree,Professional,NO,0,1,North America,35.0,YES
+18545,married,male,40000.0,4,High School,Professional,NO,2,10,North America,61.0,YES
+18391,single,female,80000.0,5,Partial College,Professional,YES,2,10,North America,44.0,NO
+19812,single,female,70000.0,2,Partial College,Professional,YES,0,10,North America,49.0,YES
+27660,married,male,80000.0,4,Graduate Degree,Management,YES,2,10,North America,70.0,NO
+18058,single,female,20000.0,3,High School,Skilled Manual,YES,2,5,North America,77.5,NO
+20343,married,female,90000.0,4,Partial College,Professional,YES,1,2,North America,45.0,NO
+28997,single,male,40000.0,2,High School,Professional,NO,1,5,North America,58.0,YES
+24398,married,male,130000.0,1,Graduate Degree,Management,YES,4,1,North America,41.0,NO
+19002,married,female,60000.0,2,Partial College,Professional,YES,1,5,North America,57.0,YES
+28609,married,male,30000.0,2,High School,Skilled Manual,NO,2,1,North America,49.0,NO
+29231,single,male,80000.0,4,Partial College,Professional,NO,2,1,North America,43.0,NO
+18858,single,male,60000.0,2,Partial High School,Skilled Manual,YES,2,10,North America,52.0,YES
+20000,married,male,60000.0,1,Graduate Degree,Professional,YES,0,1,North America,35.0,YES
+25261,married,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,27.0,NO
+17458,single,male,70000.0,3,High School,Professional,YES,0,10,North America,52.0,YES
+11644,single,male,40000.0,2,Bachelors,Skilled Manual,YES,0,5,North America,36.0,NO
+16145,single,female,70000.0,5,Graduate Degree,Professional,YES,3,10,North America,46.0,YES
+16890,married,male,60000.0,3,Partial High School,Skilled Manual,YES,2,10,North America,52.0,YES
+25983,married,male,70000.0,0,Bachelors,Professional,NO,1,1,North America,43.0,NO
+14633,married,male,60000.0,1,Partial College,Skilled Manual,YES,1,5,North America,44.0,NO
+22994,married,female,80000.0,0,Bachelors,Management,YES,1,2,North America,34.0,YES
+22983,single,female,30000.0,0,Partial High School,Clerical,YES,2,10,North America,27.0,NO
+25184,single,male,110000.0,1,Partial College,Professional,YES,4,10,North America,45.0,YES
+14469,married,female,100000.0,3,Partial College,Professional,YES,4,2,North America,45.0,NO
+11538,single,female,60000.0,4,Graduate Degree,Skilled Manual,NO,0,1,North America,47.0,YES
+16245,single,female,80000.0,4,Graduate Degree,Skilled Manual,YES,0,2,North America,47.0,NO
+17858,married,male,40000.0,4,High School,Skilled Manual,YES,2,5,North America,44.0,YES
+25347,single,female,20000.0,3,Partial High School,Clerical,NO,2,1,North America,49.0,NO
+15814,single,female,40000.0,0,High School,Skilled Manual,YES,1,10,North America,30.0,NO
+11259,married,female,100000.0,4,Partial College,Professional,YES,4,5,North America,41.0,YES
+11200,married,male,70000.0,4,Bachelors,Management,YES,1,2,North America,58.0,NO
+25101,married,male,60000.0,5,Bachelors,Professional,YES,1,5,North America,47.0,NO
+21801,married,female,70000.0,4,Partial College,Professional,YES,1,2,North America,55.0,NO
+25943,single,female,70000.0,0,Partial College,Skilled Manual,NO,2,1,North America,27.0,YES
+22127,married,male,60000.0,3,Graduate Degree,Management,YES,2,2,North America,67.0,NO
+20414,married,female,60000.0,0,Partial College,Skilled Manual,YES,2,10,North America,29.0,NO
+23672,married,female,60000.0,3,Graduate Degree,Management,YES,2,2,North America,67.0,NO
+29255,single,male,80000.0,3,Partial College,Professional,NO,1,2,North America,51.0,YES
+28815,married,female,50000.0,1,Graduate Degree,Skilled Manual,YES,0,1,North America,35.0,NO
+27753,married,male,40000.0,0,High School,Skilled Manual,NO,2,2,North America,30.0,NO
+27643,single,male,70000.0,5,Partial College,Professional,YES,3,5,North America,44.0,NO
+13754,single,female,80000.0,4,Graduate Degree,Skilled Manual,YES,0,2,North America,48.0,NO
+22088,married,female,130000.0,1,Bachelors,Management,YES,2,1,North America,45.0,YES
+27388,married,male,60000.0,3,Bachelors,Management,NO,2,2,North America,66.0,NO
+24745,single,female,30000.0,2,High School,Skilled Manual,NO,2,1,North America,49.0,NO
+29237,single,female,120000.0,4,Partial College,Professional,YES,3,10,North America,43.0,YES
+15272,single,male,40000.0,0,High School,Skilled Manual,NO,2,2,North America,30.0,NO
+18949,single,male,70000.0,0,Graduate Degree,Management,YES,2,10,North America,74.0,YES
+14507,married,male,100000.0,2,Graduate Degree,Management,YES,3,2,North America,65.0,NO
+25886,married,female,60000.0,2,Partial College,Professional,YES,2,5,North America,56.0,YES
+21441,married,male,50000.0,4,Bachelors,Management,YES,2,10,North America,64.0,NO
+21741,married,female,70000.0,3,Partial College,Professional,YES,2,10,North America,50.0,YES
+14572,married,female,70000.0,3,Graduate Degree,Professional,YES,0,5,North America,35.0,YES
+23368,married,female,60000.0,5,Bachelors,Skilled Manual,YES,3,10,North America,41.0,NO
+16217,single,female,60000.0,0,Graduate Degree,Skilled Manual,YES,0,1,North America,39.0,NO
+16247,single,female,60000.0,4,Graduate Degree,Skilled Manual,NO,0,2,North America,47.0,NO
+22010,single,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,31.0,NO
+25872,single,female,70000.0,2,Bachelors,Management,NO,1,5,North America,58.0,YES
+19164,single,female,70000.0,0,Bachelors,Professional,NO,1,5,North America,38.0,YES
+18435,single,female,70000.0,5,Graduate Degree,Management,YES,2,10,North America,67.0,YES
+14284,single,male,60000.0,0,Partial College,Professional,NO,2,2,North America,32.0,YES
+11287,married,male,70000.0,5,Partial College,Professional,NO,3,10,North America,45.0,NO
+13066,single,male,30000.0,0,High School,Skilled Manual,NO,2,2,North America,31.0,YES
+29106,single,male,40000.0,0,High School,Skilled Manual,NO,2,2,North America,31.0,YES
+26236,married,female,40000.0,3,Partial College,Clerical,YES,1,1,North America,31.0,NO
+17531,married,male,60000.0,2,High School,Professional,NO,2,10,North America,50.0,NO
+12964,married,male,70000.0,1,Partial College,Skilled Manual,YES,1,1,North America,44.0,NO
+19133,single,male,50000.0,2,Bachelors,Skilled Manual,YES,1,5,North America,38.0,YES
+24643,single,female,60000.0,4,Bachelors,Management,YES,2,10,North America,63.0,NO
+21599,married,female,60000.0,1,Graduate Degree,Professional,YES,0,5,North America,36.0,YES
+22976,single,male,40000.0,0,High School,Skilled Manual,NO,2,1,North America,28.0,YES
+27637,single,female,100000.0,1,Partial College,Professional,NO,3,2,North America,44.0,NO
+11890,married,female,70000.0,5,Graduate Degree,Professional,YES,1,1,North America,47.0,NO
+28580,married,female,80000.0,0,Graduate Degree,Skilled Manual,YES,0,2,North America,40.0,YES
+14443,married,male,130000.0,1,Graduate Degree,Management,YES,4,1,North America,40.0,NO
+17864,married,female,60000.0,1,Partial College,Skilled Manual,YES,1,5,North America,46.0,YES
+20505,married,female,40000.0,5,High School,Professional,NO,2,10,North America,61.0,NO
+14592,married,female,60000.0,0,Graduate Degree,Professional,YES,0,1,North America,40.0,NO
+22227,married,female,60000.0,2,High School,Professional,YES,2,10,North America,50.0,NO
+21471,married,male,70000.0,2,Partial College,Professional,YES,1,10,North America,59.0,NO
+22252,single,female,60000.0,1,Graduate Degree,Professional,YES,0,5,North America,36.0,YES
+21260,single,female,40000.0,0,High School,Skilled Manual,YES,2,10,North America,30.0,NO
+11817,single,female,70000.0,4,Graduate Degree,Professional,YES,0,5,North America,35.0,YES
+19223,married,female,30000.0,2,High School,Skilled Manual,YES,2,2,North America,48.0,NO
+18517,married,male,100000.0,3,Bachelors,Management,YES,4,1,North America,41.0,NO
+21717,married,male,40000.0,2,Partial College,Clerical,YES,1,1,North America,47.0,NO
+13760,married,male,60000.0,4,Graduate Degree,Skilled Manual,NO,0,1,North America,47.0,NO
+18145,married,male,80000.0,5,Bachelors,Management,NO,2,5,Europe,62.0,NO
+21770,married,male,60000.0,4,Bachelors,Management,YES,2,10,North America,60.0,NO
+11165,married,female,60000.0,0,Partial College,Skilled Manual,NO,1,2,North America,33.0,NO
+16377,single,female,80000.0,4,Graduate Degree,Skilled Manual,NO,0,1,North America,47.0,NO
+26248,married,male,20000.0,3,Partial High School,Clerical,NO,2,1,North America,52.0,NO
+23461,married,female,90000.0,5,Partial College,Professional,YES,3,5,North America,40.0,NO
+29133,single,female,60000.0,4,Bachelors,Skilled Manual,NO,2,1,North America,42.0,NO
+27673,single,female,60000.0,3,Graduate Degree,Management,YES,2,10,North America,53.0,YES
+12774,married,female,40000.0,1,Partial College,Clerical,YES,1,2,North America,51.0,YES
+18910,single,male,30000.0,0,Partial College,Skilled Manual,YES,2,10,North America,30.0,NO
+11699,single,male,60000.0,0,Bachelors,Skilled Manual,NO,2,1,North America,30.0,NO
+16725,married,male,30000.0,0,High School,Skilled Manual,YES,2,10,North America,26.0,NO
+28269,single,female,130000.0,1,Bachelors,Management,NO,1,5,North America,45.0,NO
+23144,married,male,50000.0,1,Bachelors,Skilled Manual,YES,0,1,North America,34.0,YES
+23376,married,male,70000.0,1,Bachelors,Professional,YES,1,5,North America,44.0,YES
+25970,single,female,60000.0,4,Bachelors,Skilled Manual,NO,2,1,North America,41.0,YES
+28068,single,female,80000.0,3,Graduate Degree,Professional,NO,0,1,North America,36.0,YES
+18390,married,male,80000.0,5,Partial College,Professional,YES,2,1,North America,44.0,NO
+29112,single,male,60000.0,0,Partial College,Professional,NO,2,2,North America,30.0,NO
+14090,married,female,30000.0,0,Partial High School,Clerical,NO,2,1,North America,28.0,NO
+27040,married,male,20000.0,2,Partial High School,Clerical,YES,2,2,North America,49.0,NO
+23479,single,male,90000.0,0,Partial College,Professional,NO,2,1,North America,43.0,YES
+16795,married,female,70000.0,4,Bachelors,Management,YES,1,2,North America,59.0,NO
+22014,single,male,30000.0,0,High School,Skilled Manual,YES,2,10,North America,26.0,NO
+13314,married,male,120000.0,1,High School,Professional,YES,4,10,North America,46.0,YES
+11619,single,female,50000.0,0,Graduate Degree,Skilled Manual,YES,0,2,North America,33.0,NO
+29132,single,female,40000.0,0,Bachelors,Professional,YES,1,5,North America,42.0,YES
+11199,married,female,70000.0,4,Bachelors,Management,YES,1,10,North America,59.0,NO
+20296,single,female,60000.0,0,Partial College,Skilled Manual,NO,1,2,North America,33.0,YES
+17546,married,female,70000.0,1,Partial College,Skilled Manual,YES,1,1,North America,44.0,YES
+18069,married,male,70000.0,5,Bachelors,Management,YES,4,10,North America,60.0,NO
+23712,single,female,70000.0,2,Bachelors,Management,YES,1,10,North America,59.0,NO
+23358,married,male,60000.0,0,High School,Professional,YES,2,10,North America,32.0,YES
+20518,married,female,70000.0,2,Partial College,Professional,YES,1,10,North America,58.0,NO
+28026,married,female,40000.0,2,High School,Professional,NO,2,5,North America,59.0,NO
+11669,single,female,70000.0,2,Bachelors,Skilled Manual,YES,1,5,North America,38.0,NO
+16020,married,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,28.0,YES
+27090,married,female,60000.0,1,Graduate Degree,Professional,YES,0,5,North America,37.0,YES
+27198,single,female,80000.0,0,Graduate Degree,Skilled Manual,NO,0,1,North America,40.0,NO
+19661,single,male,90000.0,4,Bachelors,Management,YES,1,2,North America,38.0,YES
+26327,married,male,70000.0,4,Graduate Degree,Professional,YES,0,5,North America,36.0,YES
+26341,married,female,70000.0,5,Graduate Degree,Professional,YES,2,1,North America,37.0,NO
+24958,single,female,40000.0,5,High School,Professional,NO,3,5,North America,60.0,YES
+13287,single,male,110000.0,4,Bachelors,Management,YES,4,10,North America,42.0,YES
+14493,single,female,70000.0,3,Graduate Degree,Management,NO,2,2,North America,53.0,NO
+26678,single,female,80000.0,2,Partial High School,Skilled Manual,YES,2,10,North America,49.0,NO
+23275,married,male,30000.0,2,High School,Skilled Manual,YES,2,2,North America,49.0,NO
+11270,married,male,130000.0,2,Graduate Degree,Management,YES,3,1,North America,42.0,YES
+20084,married,male,20000.0,2,High School,Manual,NO,2,1,North America,53.0,NO
+16144,married,male,70000.0,1,Graduate Degree,Professional,YES,1,1,North America,46.0,YES
+27731,married,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,27.0,NO
+11886,married,female,60000.0,3,Bachelors,Professional,YES,1,1,North America,48.0,YES
+24324,single,female,60000.0,4,Bachelors,Skilled Manual,YES,2,5,North America,41.0,YES
+22220,married,male,60000.0,2,High School,Professional,NO,2,2,North America,49.0,YES
+26625,single,female,60000.0,0,Graduate Degree,Professional,YES,1,5,North America,38.0,YES
+23027,single,male,130000.0,1,Bachelors,Management,NO,4,1,North America,44.0,NO
+16867,single,female,130000.0,1,Bachelors,Management,NO,3,1,North America,45.0,YES
+14514,single,female,30000.0,0,Partial College,Skilled Manual,YES,1,10,North America,26.0,NO
+19634,married,male,40000.0,0,High School,Skilled Manual,YES,1,10,North America,31.0,NO
+18504,married,male,70000.0,2,Partial High School,Skilled Manual,NO,2,2,North America,49.0,NO
+28799,single,female,40000.0,2,Partial College,Clerical,NO,1,2,North America,47.0,YES
+11225,married,female,60000.0,2,Partial College,Professional,YES,1,10,North America,55.0,NO
+17657,married,male,40000.0,4,Partial College,Clerical,NO,0,1,North America,30.0,NO
+14913,married,female,40000.0,1,Partial College,Clerical,YES,1,2,North America,48.0,YES
+14077,single,male,30000.0,0,High School,Skilled Manual,YES,2,10,North America,30.0,NO
+13296,married,male,110000.0,1,Bachelors,Management,YES,3,10,North America,45.0,NO
+20535,married,female,70000.0,4,Partial College,Professional,YES,1,10,North America,56.0,NO
+12452,married,male,60000.0,4,Graduate Degree,Skilled Manual,YES,0,2,North America,47.0,YES
+28043,married,female,60000.0,2,Bachelors,Management,YES,0,10,North America,56.0,NO
+12957,single,female,70000.0,1,Bachelors,Professional,NO,1,1,North America,44.0,NO
+15412,married,male,130000.0,2,Graduate Degree,Management,YES,3,5,North America,69.0,NO
+20514,married,female,70000.0,2,Partial College,Professional,YES,1,5,North America,59.0,NO
+20758,married,male,30000.0,2,High School,Skilled Manual,YES,2,2,North America,50.0,NO
+11801,married,male,60000.0,1,Graduate Degree,Professional,YES,0,5,North America,36.0,NO
+22211,married,male,60000.0,0,Partial College,Professional,YES,2,10,North America,32.0,NO
+28087,single,female,40000.0,0,Partial College,Skilled Manual,NO,1,2,North America,27.0,NO
+23668,married,female,40000.0,4,High School,Professional,YES,2,10,North America,59.0,YES
+27441,married,male,60000.0,3,High School,Professional,NO,2,5,North America,53.0,NO
+27261,married,male,40000.0,1,Bachelors,Skilled Manual,NO,1,1,North America,36.0,YES
+18649,single,male,30000.0,1,High School,Clerical,YES,2,2,North America,51.0,YES
+21714,single,female,80000.0,5,Graduate Degree,Skilled Manual,NO,0,1,North America,47.0,NO
+23217,single,female,60000.0,3,Graduate Degree,Professional,YES,0,5,North America,43.0,YES
+23797,single,male,20000.0,3,Partial High School,Clerical,NO,2,1,North America,50.0,NO
+13216,married,female,60000.0,5,Bachelors,Management,YES,3,10,North America,59.0,NO
+20657,single,male,50000.0,2,Bachelors,Skilled Manual,YES,0,5,North America,37.0,YES
+12882,married,male,50000.0,1,Graduate Degree,Skilled Manual,YES,0,1,North America,33.0,YES
+25908,married,female,60000.0,0,Partial College,Skilled Manual,NO,1,2,North America,27.0,NO
+16753,single,female,70000.0,0,Partial College,Skilled Manual,YES,2,10,North America,34.0,YES
+14608,married,male,50000.0,4,Bachelors,Skilled Manual,YES,3,10,North America,42.0,NO
+24979,married,female,60000.0,2,Partial College,Professional,YES,2,5,North America,57.0,YES
+13313,married,female,120000.0,1,High School,Professional,NO,4,5,North America,45.0,NO
+18952,married,female,100000.0,4,Bachelors,Management,YES,4,1,North America,40.0,NO
+17699,married,male,60000.0,1,Graduate Degree,Skilled Manual,NO,0,1,North America,55.0,NO
+14657,married,male,80000.0,1,Partial College,Skilled Manual,NO,1,1,North America,47.0,YES
+11540,single,male,60000.0,4,Graduate Degree,Skilled Manual,YES,0,2,North America,47.0,YES
+11783,married,female,60000.0,1,Graduate Degree,Skilled Manual,YES,0,1,North America,34.0,NO
+14602,married,female,80000.0,3,Graduate Degree,Professional,YES,0,1,North America,36.0,YES
+29030,married,male,70000.0,2,Partial High School,Skilled Manual,YES,2,10,North America,54.0,NO
+26490,single,male,70000.0,2,Bachelors,Management,NO,1,5,North America,59.0,YES
+13151,single,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,27.0,NO
+17260,married,male,90000.0,5,Partial College,Professional,YES,3,1,North America,41.0,NO
+15372,married,male,80000.0,3,Partial College,Professional,NO,2,5,North America,50.0,YES
+18105,married,female,60000.0,2,Partial College,Professional,YES,1,10,North America,55.0,NO
+19660,married,male,80000.0,4,Bachelors,Management,YES,0,1,North America,43.0,NO
+16112,single,male,70000.0,4,Bachelors,Professional,YES,2,5,North America,43.0,YES
+20698,married,male,60000.0,4,Bachelors,Skilled Manual,YES,3,10,North America,42.0,NO
+20076,single,female,10000.0,2,High School,Manual,YES,2,2,North America,53.0,YES
+24496,single,female,40000.0,0,High School,Skilled Manual,NO,2,1,North America,28.0,YES
+15468,married,female,50000.0,1,Bachelors,Skilled Manual,YES,1,1,North America,35.0,NO
+28031,single,female,70000.0,2,Bachelors,Management,NO,1,5,North America,59.0,YES
+26270,single,female,20000.0,2,Partial High School,Clerical,YES,2,2,North America,49.0,NO
+22221,married,male,60000.0,2,High School,Professional,NO,2,2,North America,48.0,YES
+28228,single,female,80000.0,2,Partial High School,Skilled Manual,NO,2,2,North America,50.0,NO
+18363,married,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,28.0,YES
+23256,single,male,30000.0,1,High School,Clerical,NO,1,10,North America,52.0,NO
+12768,married,male,30000.0,1,High School,Clerical,YES,1,5,North America,52.0,YES
+20361,married,male,50000.0,2,Graduate Degree,Management,YES,2,10,North America,69.0,NO
+21306,single,male,60000.0,2,High School,Professional,YES,2,10,North America,51.0,NO
+13382,married,male,70000.0,5,Partial College,Professional,YES,2,2,North America,57.0,YES
+20310,single,male,60000.0,0,Partial College,Skilled Manual,YES,1,10,North America,27.0,YES
+22971,single,female,30000.0,0,High School,Skilled Manual,NO,2,1,North America,25.0,YES
+15287,single,female,50000.0,1,Graduate Degree,Skilled Manual,YES,0,2,North America,33.0,YES
+15532,single,male,60000.0,4,Bachelors,Professional,YES,2,5,North America,43.0,YES
+11255,married,male,70000.0,4,Graduate Degree,Management,YES,2,10,North America,73.0,NO
+28090,married,male,40000.0,0,Partial College,Skilled Manual,YES,1,10,North America,27.0,NO
+15255,married,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,28.0,YES
+13154,married,male,40000.0,0,High School,Skilled Manual,NO,2,1,North America,27.0,YES
+26778,single,female,40000.0,0,High School,Skilled Manual,YES,2,10,North America,31.0,NO
+23248,married,female,10000.0,2,High School,Manual,YES,2,2,North America,53.0,NO
+21417,single,female,60000.0,0,Partial College,Professional,NO,2,2,North America,32.0,YES
+17668,single,male,30000.0,2,High School,Skilled Manual,YES,2,2,North America,50.0,YES
+27994,married,female,40000.0,4,High School,Professional,YES,2,10,North America,69.0,NO
+20376,single,female,70000.0,3,Graduate Degree,Management,YES,2,10,North America,52.0,YES
+25954,married,male,60000.0,0,Partial College,Skilled Manual,NO,2,2,North America,31.0,NO
+15749,single,female,70000.0,4,Bachelors,Management,YES,2,10,North America,61.0,NO
+25899,married,female,70000.0,2,High School,Professional,YES,2,10,North America,53.0,NO
+13351,single,female,70000.0,4,Bachelors,Management,YES,2,2,North America,62.0,YES
+23333,married,male,40000.0,0,Partial College,Skilled Manual,NO,2,2,North America,30.0,NO
+21660,married,female,60000.0,3,Graduate Degree,Professional,YES,0,5,North America,43.0,YES
+17012,married,female,60000.0,3,Graduate Degree,Professional,YES,0,5,North America,42.0,YES
+24514,married,male,40000.0,0,Partial College,Skilled Manual,YES,1,10,North America,30.0,NO
+27505,single,female,40000.0,0,High School,Skilled Manual,YES,2,10,North America,30.0,NO
+29243,single,male,110000.0,1,Bachelors,Management,YES,1,10,North America,43.0,NO
+26582,married,male,60000.0,0,Partial College,Skilled Manual,YES,2,10,North America,33.0,YES
+14271,married,male,30000.0,0,High School,Skilled Manual,YES,2,10,North America,32.0,NO
+23041,single,female,70000.0,4,High School,Professional,YES,0,10,North America,50.0,YES
+29048,single,male,110000.0,2,Bachelors,Management,NO,3,1,North America,37.0,YES
+24433,married,male,70000.0,3,High School,Professional,NO,1,2,North America,52.0,YES
+15501,married,male,70000.0,4,Graduate Degree,Professional,YES,0,5,North America,36.0,YES
+13911,single,female,80000.0,3,Bachelors,Skilled Manual,YES,2,5,North America,41.0,YES
+20421,single,female,40000.0,0,Partial High School,Clerical,YES,2,10,North America,26.0,NO
+18411,married,male,60000.0,2,High School,Professional,NO,2,10,North America,51.0,NO
+19163,married,female,70000.0,4,Bachelors,Professional,YES,2,1,North America,43.0,YES
+18572,married,female,60000.0,0,Graduate Degree,Professional,YES,0,1,North America,39.0,NO
+27540,single,female,70000.0,0,Bachelors,Professional,NO,1,1,North America,37.0,YES
+19889,single,female,70000.0,2,Partial High School,Skilled Manual,NO,2,5,North America,54.0,YES
+12922,single,female,60000.0,3,Bachelors,Skilled Manual,YES,0,5,North America,40.0,YES
+18891,married,female,40000.0,0,Partial College,Skilled Manual,YES,2,10,North America,28.0,NO
+16773,married,male,60000.0,1,Graduate Degree,Skilled Manual,YES,0,1,North America,33.0,NO
+19143,single,female,80000.0,3,Bachelors,Skilled Manual,YES,2,5,North America,41.0,YES
+23882,single,female,80000.0,3,Graduate Degree,Professional,YES,0,1,North America,37.0,YES
+11233,married,male,70000.0,4,Partial College,Professional,YES,2,10,North America,53.0,NO
+12056,married,male,120000.0,2,Graduate Degree,Management,YES,3,10,North America,64.0,NO
+15555,married,female,60000.0,1,Partial College,Skilled Manual,YES,1,5,North America,45.0,YES
+18423,single,male,80000.0,2,Partial High School,Skilled Manual,NO,2,2,North America,52.0,NO
+22743,married,female,40000.0,5,High School,Professional,YES,2,10,North America,60.0,NO
+25343,single,female,20000.0,3,Partial High School,Clerical,YES,2,2,North America,50.0,NO
+13390,married,female,70000.0,4,Partial College,Professional,NO,1,2,North America,56.0,NO
+17482,single,female,40000.0,0,Partial High School,Clerical,YES,2,10,North America,29.0,NO
+13176,single,male,130000.0,0,Graduate Degree,Management,NO,2,1,North America,38.0,YES
+20504,married,female,40000.0,5,High School,Professional,NO,2,5,North America,60.0,NO
+12205,single,female,130000.0,2,Bachelors,Management,NO,4,1,North America,67.0,NO
+16751,married,male,60000.0,0,Partial College,Skilled Manual,YES,1,10,North America,32.0,YES
+21613,single,male,50000.0,2,Bachelors,Skilled Manual,NO,1,1,North America,39.0,YES
+24801,single,male,60000.0,1,Graduate Degree,Professional,YES,0,5,North America,35.0,YES
+17519,married,female,60000.0,0,Partial College,Professional,YES,2,10,North America,32.0,NO
+18347,single,female,30000.0,0,Partial College,Skilled Manual,NO,1,2,North America,31.0,NO
+29052,single,male,40000.0,0,Partial College,Skilled Manual,YES,1,10,North America,27.0,NO
+11745,married,female,60000.0,1,Bachelors,Professional,YES,1,1,North America,47.0,YES
+19147,married,male,40000.0,0,Bachelors,Professional,NO,1,1,North America,42.0,NO
+19217,married,male,30000.0,2,High School,Skilled Manual,YES,2,2,North America,49.0,NO
+15839,single,male,30000.0,0,Partial College,Skilled Manual,YES,1,10,North America,32.0,NO
+13714,married,female,20000.0,2,High School,Manual,NO,2,2,North America,53.0,YES
+22330,married,male,50000.0,0,Graduate Degree,Skilled Manual,YES,0,2,North America,32.0,YES
+18783,single,male,80000.0,0,Bachelors,Management,NO,1,1,North America,38.0,YES
+25041,single,male,40000.0,0,High School,Skilled Manual,YES,2,10,North America,31.0,NO
+22046,single,female,80000.0,0,Bachelors,Management,NO,1,1,North America,38.0,YES
+28052,married,male,60000.0,2,High School,Professional,YES,2,10,North America,55.0,NO
+26693,married,male,70000.0,3,Partial College,Professional,YES,1,10,North America,49.0,NO
+24955,single,male,30000.0,5,Partial High School,Skilled Manual,YES,3,10,North America,60.0,YES
+26065,single,female,110000.0,3,Bachelors,Management,NO,4,2,North America,42.0,NO
+13942,married,male,60000.0,1,Partial College,Skilled Manual,YES,1,1,North America,46.0,NO
+11219,married,male,60000.0,2,High School,Professional,YES,2,10,North America,55.0,NO
+22118,single,female,70000.0,3,Graduate Degree,Management,YES,2,10,North America,53.0,YES
+23197,married,male,50000.0,3,Bachelors,Skilled Manual,YES,2,5,North America,40.0,NO
+14883,married,female,30000.0,1,Bachelors,Skilled Manual,YES,1,10,North America,53.0,YES
+27279,single,female,70000.0,2,Bachelors,Skilled Manual,YES,0,5,North America,38.0,YES
+18322,single,male,30000.0,0,Partial High School,Clerical,NO,2,1,North America,26.0,NO
+15879,married,male,70000.0,5,Bachelors,Management,YES,2,5,North America,61.0,NO
+28278,married,male,50000.0,2,Graduate Degree,Management,YES,2,10,North America,71.0,NO
+24416,married,male,90000.0,4,High School,Professional,YES,2,2,North America,45.0,NO
+28066,married,male,80000.0,2,Graduate Degree,Professional,YES,0,1,North America,37.0,YES
+11275,married,female,80000.0,4,Graduate Degree,Management,YES,2,1,North America,72.0,YES
+14872,married,male,30000.0,0,Graduate Degree,Skilled Manual,YES,0,1,North America,32.0,NO
+16151,married,female,60000.0,1,Bachelors,Professional,YES,1,5,North America,48.0,YES
+19731,married,male,80000.0,4,Graduate Degree,Management,YES,2,10,North America,68.0,NO
+23801,married,female,20000.0,2,Partial High School,Clerical,YES,2,1,North America,49.0,NO
+11807,married,male,70000.0,3,Graduate Degree,Professional,YES,0,5,North America,34.0,NO
+11622,married,male,50000.0,0,Graduate Degree,Skilled Manual,YES,0,1,North America,32.0,NO
+26597,single,female,60000.0,4,Bachelors,Skilled Manual,NO,2,1,North America,42.0,NO
+27074,married,female,70000.0,1,Graduate Degree,Skilled Manual,YES,0,1,North America,35.0,YES
+19228,married,female,40000.0,2,Partial College,Clerical,YES,1,1,North America,48.0,NO
+13415,single,male,100000.0,1,Graduate Degree,Management,YES,3,5,North America,73.0,YES
+17000,single,female,70000.0,4,Bachelors,Skilled Manual,YES,2,5,North America,43.0,YES
+14569,married,male,60000.0,1,Graduate Degree,Professional,YES,0,1,North America,35.0,NO
+13873,married,male,70000.0,3,Graduate Degree,Professional,YES,0,1,North America,35.0,YES
+20401,married,female,50000.0,4,Bachelors,Management,YES,2,2,North America,64.0,YES
+21583,married,female,50000.0,1,Bachelors,Skilled Manual,YES,0,1,North America,34.0,YES
+12029,married,male,30000.0,0,Partial High School,Clerical,NO,2,1,North America,28.0,NO
+18066,single,male,70000.0,5,Bachelors,Management,YES,3,10,North America,60.0,YES
+28192,married,female,70000.0,5,Graduate Degree,Professional,YES,3,10,North America,46.0,NO
+16122,married,male,40000.0,4,High School,Skilled Manual,YES,2,1,North America,44.0,YES
+18607,single,female,60000.0,4,Bachelors,Skilled Manual,YES,2,5,North America,42.0,YES
+28858,single,male,80000.0,3,Bachelors,Skilled Manual,YES,0,5,North America,40.0,NO
+14432,single,male,90000.0,4,Graduate Degree,Management,YES,1,10,North America,73.0,NO
+26305,single,female,60000.0,2,Bachelors,Skilled Manual,NO,0,1,North America,36.0,YES
+22050,single,male,90000.0,4,Bachelors,Management,YES,1,2,North America,38.0,YES
+25394,married,male,60000.0,1,Graduate Degree,Professional,YES,0,5,North America,34.0,YES
+19747,married,male,50000.0,4,Bachelors,Management,YES,2,10,North America,63.0,NO
+23195,single,male,50000.0,3,Bachelors,Skilled Manual,YES,2,5,North America,41.0,YES
+21695,married,male,60000.0,0,Graduate Degree,Skilled Manual,YES,0,2,North America,39.0,YES
+13934,married,male,40000.0,4,High School,Skilled Manual,YES,2,5,North America,46.0,NO
+13337,married,female,80000.0,5,Bachelors,Management,YES,2,10,North America,64.0,NO
+27190,married,female,40000.0,3,Partial College,Clerical,YES,1,2,North America,32.0,NO
+28657,single,male,60000.0,2,Bachelors,Skilled Manual,YES,0,5,North America,36.0,YES
+21713,single,male,80000.0,5,Graduate Degree,Skilled Manual,NO,0,1,North America,47.0,NO
+21752,married,male,60000.0,3,Graduate Degree,Management,YES,2,10,North America,64.0,NO
+27273,single,male,70000.0,3,Graduate Degree,Professional,NO,0,1,North America,35.0,YES
+22719,single,male,110000.0,3,Bachelors,Management,YES,4,5,North America,40.0,YES
+22042,married,female,70000.0,0,Partial College,Skilled Manual,YES,2,10,North America,34.0,YES
+21451,married,female,40000.0,4,High School,Professional,YES,2,10,North America,61.0,NO
+20754,married,male,30000.0,2,High School,Skilled Manual,YES,2,2,North America,51.0,NO
+12153,single,female,70000.0,3,Partial College,Professional,YES,1,10,North America,49.0,YES
+16895,married,female,40000.0,3,Partial College,Professional,NO,2,2,North America,54.0,YES
+26728,single,male,70000.0,3,Graduate Degree,Management,NO,2,2,North America,53.0,YES
+11090,single,male,90000.0,2,Partial College,Professional,YES,1,5,North America,48.0,YES
+15862,single,female,50000.0,0,Graduate Degree,Skilled Manual,YES,0,2,North America,33.0,YES
+26495,single,female,40000.0,2,High School,Professional,YES,2,10,North America,57.0,NO
+11823,married,female,70000.0,0,Graduate Degree,Professional,YES,0,5,North America,39.0,NO
+23449,married,male,60000.0,2,High School,Professional,YES,2,10,North America,48.0,NO
+23459,married,male,60000.0,2,High School,Professional,YES,2,10,North America,50.0,NO
+19543,married,male,70000.0,5,Graduate Degree,Professional,NO,3,10,North America,47.0,NO
+14914,married,female,40000.0,1,Partial College,Clerical,YES,1,2,North America,49.0,YES
+12033,single,female,40000.0,0,High School,Skilled Manual,NO,2,1,North America,27.0,YES
+11941,single,male,60000.0,0,Partial College,Skilled Manual,YES,0,10,North America,29.0,NO
+14389,married,male,60000.0,2,Bachelors,Management,YES,0,5,North America,59.0,NO
+18050,married,female,60000.0,1,Partial College,Skilled Manual,YES,1,1,North America,45.0,YES
+19856,married,female,60000.0,4,Bachelors,Management,YES,2,5,North America,60.0,NO
+11663,married,male,70000.0,4,Graduate Degree,Professional,YES,0,1,North America,36.0,YES
+27740,married,female,40000.0,0,High School,Skilled Manual,YES,2,10,North America,27.0,NO
+23455,single,male,80000.0,2,Partial High School,Skilled Manual,NO,2,2,North America,50.0,NO
+15292,single,female,60000.0,1,Graduate Degree,Skilled Manual,YES,0,2,North America,35.0,NO
+21587,married,female,60000.0,1,Graduate Degree,Skilled Manual,YES,0,5,North America,34.0,YES
+23513,married,female,40000.0,3,Partial College,Professional,YES,2,10,North America,54.0,NO
+24322,married,female,60000.0,4,Bachelors,Skilled Manual,NO,2,1,North America,42.0,NO
+26298,married,female,50000.0,1,Bachelors,Skilled Manual,YES,0,5,North America,34.0,YES
+25419,single,male,50000.0,2,Bachelors,Skilled Manual,NO,1,1,North America,38.0,YES
+13343,married,female,90000.0,5,Bachelors,Management,YES,2,2,North America,63.0,YES
+11303,single,female,90000.0,4,High School,Professional,NO,3,2,North America,45.0,YES
+21693,single,female,60000.0,0,Graduate Degree,Skilled Manual,NO,0,1,North America,40.0,NO
+28056,married,male,70000.0,2,Partial High School,Skilled Manual,YES,2,10,North America,53.0,NO
+11788,single,female,70000.0,1,Graduate Degree,Professional,YES,0,5,North America,34.0,NO
+22296,married,male,70000.0,0,Bachelors,Professional,NO,1,1,North America,38.0,NO
+15319,married,female,70000.0,4,Bachelors,Management,NO,1,2,North America,59.0,NO
+17654,single,female,40000.0,3,Partial College,Clerical,YES,1,2,North America,30.0,YES
+14662,married,male,60000.0,1,Bachelors,Professional,YES,1,1,North America,48.0,YES
+17541,married,female,40000.0,4,High School,Skilled Manual,YES,2,5,North America,43.0,NO
+13886,married,female,70000.0,4,Graduate Degree,Professional,YES,0,5,North America,35.0,YES
+13073,married,female,60000.0,0,Partial College,Professional,YES,2,10,North America,30.0,NO
+21940,married,male,90000.0,5,Graduate Degree,Professional,YES,0,1,North America,47.0,YES
+20196,married,male,60000.0,1,Partial College,Skilled Manual,YES,1,5,North America,45.0,YES
+23491,single,male,100000.0,0,Partial College,Professional,NO,4,2,North America,45.0,NO
+16651,married,female,120000.0,2,Bachelors,Management,YES,3,10,North America,62.0,NO
+16813,married,male,60000.0,2,Partial College,Professional,YES,2,10,North America,55.0,NO
+16007,married,female,90000.0,5,Bachelors,Management,YES,2,2,North America,66.0,YES
+27434,single,male,70000.0,4,Partial College,Professional,YES,1,10,North America,56.0,NO
+27756,single,female,50000.0,3,Bachelors,Skilled Manual,NO,1,1,North America,40.0,NO
+23818,married,female,50000.0,0,Graduate Degree,Skilled Manual,YES,0,2,North America,33.0,YES
+19012,married,male,80000.0,3,Bachelors,Management,YES,1,2,North America,56.0,NO
+18329,single,male,30000.0,0,Partial High School,Clerical,NO,2,10,North America,27.0,NO
+29037,married,male,60000.0,0,Graduate Degree,Professional,NO,0,1,North America,39.0,NO
+26576,married,female,60000.0,0,Partial College,Skilled Manual,YES,2,10,North America,31.0,NO
+12192,single,female,60000.0,2,Partial High School,Skilled Manual,NO,2,2,North America,51.0,NO
+14887,married,female,30000.0,1,High School,Clerical,YES,1,10,North America,52.0,NO
+11734,married,male,60000.0,1,Partial College,Skilled Manual,NO,1,1,North America,47.0,NO
+17462,married,male,70000.0,3,Graduate Degree,Management,YES,2,10,North America,53.0,YES
+20659,married,male,70000.0,3,Graduate Degree,Professional,YES,0,1,North America,35.0,YES
+28004,married,female,60000.0,3,Bachelors,Management,YES,2,10,North America,66.0,NO
+19741,single,female,80000.0,4,Graduate Degree,Management,YES,2,10,North America,65.0,NO
+17450,married,male,80000.0,5,Partial College,Professional,YES,3,10,North America,45.0,NO
+17337,single,male,40000.0,0,High School,Skilled Manual,YES,1,10,North America,31.0,NO
+18594,single,female,80000.0,3,Bachelors,Skilled Manual,YES,3,10,North America,40.0,YES
+15982,married,male,110000.0,5,Partial College,Professional,YES,4,5,North America,46.0,NO
+28625,single,male,40000.0,2,Partial College,Clerical,NO,1,2,North America,47.0,YES
+11269,married,male,130000.0,2,Graduate Degree,Management,YES,2,1,North America,41.0,NO
+25148,married,male,60000.0,2,High School,Professional,NO,2,2,North America,48.0,YES
+13920,single,female,50000.0,4,Bachelors,Skilled Manual,YES,2,1,North America,42.0,NO
+23704,single,male,40000.0,5,High School,Professional,YES,4,10,North America,60.0,YES
+28972,single,female,60000.0,3,Graduate Degree,Management,YES,2,10,North America,66.0,NO
+22730,married,male,70000.0,5,Bachelors,Management,YES,2,10,North America,63.0,NO
+29134,married,male,60000.0,4,Bachelors,Skilled Manual,NO,3,10,North America,42.0,NO
+14332,single,female,30000.0,0,High School,Skilled Manual,NO,2,10,North America,26.0,NO
+19117,single,female,60000.0,1,Graduate Degree,Professional,YES,0,5,North America,36.0,YES
+22864,married,male,90000.0,2,Partial College,Professional,NO,0,10,North America,49.0,YES
+13466,married,male,80000.0,5,Partial College,Professional,YES,3,2,North America,46.0,NO
+23731,married,male,60000.0,2,High School,Professional,YES,2,5,North America,54.0,YES
+28672,single,male,70000.0,4,Graduate Degree,Professional,YES,0,5,North America,35.0,YES
+11809,married,male,60000.0,2,Bachelors,Skilled Manual,YES,0,1,North America,38.0,YES
+19664,single,male,100000.0,3,Bachelors,Management,NO,3,2,North America,38.0,NO
+12121,single,male,60000.0,3,High School,Professional,YES,2,10,North America,53.0,YES
+22173,married,female,30000.0,3,High School,Skilled Manual,NO,2,2,Pacific,54.0,YES
+12697,single,female,90000.0,0,Bachelors,Professional,NO,4,10,Pacific,36.0,NO
+25323,married,male,40000.0,2,Partial College,Clerical,YES,1,2,Europe,35.0,YES
+23542,single,male,60000.0,1,Partial College,Skilled Manual,NO,1,1,Pacific,45.0,YES
+20870,single,female,10000.0,2,High School,Manual,YES,1,1,Europe,38.0,YES
+23316,single,male,30000.0,3,Partial College,Clerical,NO,2,2,Pacific,59.0,YES
+12610,married,female,30000.0,1,Bachelors,Clerical,YES,0,1,Europe,47.0,NO
+27183,single,male,40000.0,2,Partial College,Clerical,YES,1,2,Europe,35.0,YES
+25940,single,male,20000.0,2,Partial High School,Clerical,YES,2,10,Pacific,55.0,YES
+21564,single,female,80000.0,0,Bachelors,Professional,YES,4,10,Pacific,35.0,NO
+18283,single,female,100000.0,0,Bachelors,Professional,NO,1,10,Pacific,40.0,NO
+19273,married,female,20000.0,2,Partial College,Manual,YES,0,1,Europe,63.0,NO
+22400,married,male,10000.0,0,Partial College,Manual,NO,1,1,Pacific,26.0,YES
+20942,single,female,20000.0,0,High School,Manual,NO,1,10,Europe,31.0,NO
+18484,single,male,80000.0,2,High School,Skilled Manual,NO,2,2,Pacific,50.0,YES
